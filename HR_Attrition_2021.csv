@@ -1,0 +1,1251 @@
+EmployeeID,EmployeeName,Department,Gender,Ethnicity,Region,MonthlySalary,HireDate,ExitDate,AttritionFlag,PerformanceRating,HighPerformerAttrition,ReasonForLeaving,TenureYears,TenureBucket
+1,Arthur Hammond,Sales,Female,Black,Asia,98459,2020-11-27,,0,Standard,0,,1.09,1-3 Years
+2,Jacqueline Garcia,Sales,Female,Asian,Europe,101718,2017-01-18,,0,Standard,0,,4.95,3-5 Years
+3,Cindy Gomez,Sales,Female,Asian,Asia,72354,2019-01-05,2021-10-26,1,Standard,0,Better Opportunity,2.81,1-3 Years
+4,James Diaz,Sales,Male,Asian,North America,105215,2019-08-21,2021-10-03,1,High,1,Work-Life Balance,2.12,1-3 Years
+5,Sandra Lewis,Sales,Male,Asian,North America,72692,2018-01-22,,0,Standard,0,,3.94,3-5 Years
+6,Kristin Smith,Sales,Female,Asian,North America,90239,2016-08-31,,0,High,0,,5.34,5+ Years
+7,Matthew White,Sales,Female,Other,Europe,73962,2019-09-03,,0,High,0,,2.33,1-3 Years
+8,Michael Santiago,Sales,Male,Black,Asia,86732,2017-01-06,,0,Standard,0,,4.99,3-5 Years
+9,Jesus Mann,Sales,Male,Black,South America,70795,2019-07-05,2021-12-14,1,Standard,0,Better Opportunity,2.45,1-3 Years
+10,Jimmy Alvarado,Sales,Male,Asian,Europe,87688,2016-08-12,,0,High,0,,5.39,5+ Years
+11,Nicholas Matthews,Sales,Male,Black,Europe,84516,2016-12-24,,0,High,0,,5.02,5+ Years
+12,Julia Castro,Sales,Male,Asian,Asia,58760,2016-01-22,,0,Standard,0,,5.95,5+ Years
+13,Jason Jackson,Sales,Female,Other,North America,111784,2020-09-16,,0,Standard,0,,1.29,1-3 Years
+14,Julie Alexander,Sales,Female,Black,Europe,96779,2018-10-31,2021-12-22,1,Standard,0,Better Opportunity,3.15,3-5 Years
+15,Samantha Sanchez,Sales,Female,Asian,South America,60259,2018-11-19,,0,Standard,0,,3.12,3-5 Years
+16,Mrs. Alicia Allen,Sales,Male,Asian,South America,118401,2020-09-04,,0,Standard,0,,1.32,1-3 Years
+17,Angela Walker,Sales,Female,Other,Europe,111975,2017-06-14,,0,Standard,0,,4.55,3-5 Years
+18,Judy Alvarez,Sales,Male,Asian,Asia,92125,2019-01-26,,0,Standard,0,,2.93,1-3 Years
+19,Donna Jones,Sales,Female,Asian,Asia,118775,2020-03-15,2021-07-21,1,Standard,0,Work-Life Balance,1.35,1-3 Years
+20,Wesley Craig,Sales,Male,Asian,South America,102065,2016-05-22,,0,Standard,0,,5.61,5+ Years
+21,Bradley Scott,Sales,Female,Asian,Asia,90710,2018-08-19,,0,Standard,0,,3.37,3-5 Years
+22,Paul Diaz,Sales,Male,Asian,North America,108523,2017-02-07,,0,Standard,0,,4.9,3-5 Years
+23,Jeffery Roberts,Sales,Male,Asian,North America,50594,2019-07-29,2021-12-13,1,High,1,Management Issues,2.38,1-3 Years
+24,Julie Hernandez,Sales,Male,Black,South America,97439,2018-11-02,,0,High,0,,3.16,3-5 Years
+25,Curtis Liu,Sales,Female,Asian,South America,64869,2020-12-09,,0,Standard,0,,1.06,1-3 Years
+26,Justin Vega,Sales,Male,Asian,Europe,106064,2018-11-20,,0,Standard,0,,3.12,3-5 Years
+27,Vickie Mccann,Sales,Male,Other,Asia,106077,2017-01-27,,0,High,0,,4.93,3-5 Years
+28,Lisa Rodgers,Sales,Male,Asian,Europe,61581,2016-06-28,,0,Standard,0,,5.51,5+ Years
+29,Cheryl Williams,Sales,Male,Black,Europe,47330,2018-02-11,,0,Standard,0,,3.89,3-5 Years
+30,Joshua Leon,Sales,Male,Other,Asia,91818,2017-05-17,,0,Standard,0,,4.63,3-5 Years
+31,Justin Drake,Sales,Male,Black,Asia,110979,2016-08-19,,0,Standard,0,,5.37,5+ Years
+32,Allen Li,Sales,Male,Other,Europe,75045,2019-09-20,2021-07-28,1,Standard,0,Work-Life Balance,1.85,1-3 Years
+33,Wendy Ruiz,Sales,Male,Black,Europe,72471,2018-02-23,,0,Standard,0,,3.85,3-5 Years
+34,Brett Alexander,Sales,Female,Other,Europe,79479,2020-08-22,,0,Standard,0,,1.36,1-3 Years
+35,Diane Mann,Sales,Female,Other,Europe,59924,2020-12-17,2021-07-21,1,Standard,0,Management Issues,0.59,0-1 Years
+36,Chris Lee,Sales,Female,Asian,North America,49181,2019-08-19,,0,High,0,,2.37,1-3 Years
+37,Paul Guerrero,Sales,Male,Asian,North America,79611,2018-01-30,2021-06-29,1,Standard,0,Work-Life Balance,3.41,3-5 Years
+38,Jesse Jackson,Sales,Female,Other,North America,54292,2017-03-16,2021-11-17,1,Standard,0,Management Issues,4.68,3-5 Years
+39,Teresa Chapman,Sales,Female,Asian,Europe,57075,2016-03-19,2021-11-17,1,Standard,0,Work-Life Balance,5.67,5+ Years
+40,Charles Erickson,Sales,Female,Asian,North America,72024,2016-11-01,,0,Standard,0,,5.17,5+ Years
+41,Debra George,Sales,Female,Black,North America,72253,2017-10-01,,0,Standard,0,,4.25,3-5 Years
+42,April Martin,Sales,Female,Asian,Europe,57763,2018-03-09,,0,High,0,,3.82,3-5 Years
+43,Donna Adams,Sales,Male,Black,Asia,94442,2016-05-07,2021-11-12,1,Standard,0,Management Issues,5.52,5+ Years
+44,Scott Thornton,Sales,Female,Black,Asia,70490,2021-06-23,,0,Standard,0,,0.52,0-1 Years
+45,Samantha Jefferson,Sales,Female,Asian,Europe,47049,2017-01-04,,0,Standard,0,,4.99,3-5 Years
+46,Sean Taylor,Sales,Female,Asian,North America,56929,2017-11-20,,0,Standard,0,,4.12,3-5 Years
+47,Elizabeth Key DVM,Sales,Female,Black,Europe,80392,2020-01-29,,0,Standard,0,,1.92,1-3 Years
+48,Julia Carrillo,Sales,Female,Black,Asia,64962,2016-02-02,2021-11-26,1,Standard,0,Management Issues,5.82,5+ Years
+49,Jason Smith,Sales,Female,Asian,South America,72236,2017-08-24,,0,Standard,0,,4.36,3-5 Years
+50,Michele Simpson,Sales,Female,Black,South America,62756,2018-08-14,,0,Standard,0,,3.38,3-5 Years
+51,Erica Williams,Sales,Female,Asian,North America,93108,2017-11-14,,0,Standard,0,,4.13,3-5 Years
+52,Alexis West,Sales,Male,Black,Europe,89846,2019-06-10,,0,Standard,0,,2.56,1-3 Years
+53,Michael Banks,Sales,Male,Black,South America,92248,2019-06-07,,0,Standard,0,,2.57,1-3 Years
+54,John Jackson,Sales,Female,Black,North America,62192,2019-03-28,,0,High,0,,2.76,1-3 Years
+55,Jamie Johnson,Sales,Male,Black,South America,100345,2020-09-09,,0,Standard,0,,1.31,1-3 Years
+56,Christine Baker,Sales,Female,Other,North America,70223,2016-08-06,,0,Standard,0,,5.41,5+ Years
+57,Dean Moon,Sales,Male,Asian,Asia,77432,2016-11-23,,0,Standard,0,,5.11,5+ Years
+58,Mr. Joseph Marquez DDS,Sales,Male,Black,Asia,57749,2016-06-17,,0,Standard,0,,5.54,5+ Years
+59,Kevin David,Sales,Female,Asian,North America,78859,2016-08-29,,0,Standard,0,,5.34,5+ Years
+60,Matthew Salazar,Sales,Female,Black,North America,76777,2021-07-04,,0,Standard,0,,0.49,0-1 Years
+61,Sean Ward,Sales,Female,Other,Asia,82471,2016-08-23,2021-07-18,1,Standard,0,Management Issues,4.9,3-5 Years
+62,James Foster,Sales,Female,Black,Europe,65318,2016-05-18,,0,Standard,0,,5.62,5+ Years
+63,Lisa Bauer,Sales,Male,Asian,North America,93497,2018-12-07,,0,Standard,0,,3.07,3-5 Years
+64,Jeffrey Lindsey,Sales,Male,Asian,North America,98089,2019-06-01,2021-06-26,1,High,1,Better Opportunity,2.07,1-3 Years
+65,Zachary George,Sales,Male,Other,Europe,79511,2021-04-25,2021-12-24,1,Standard,0,Salary,0.67,0-1 Years
+66,Valerie Gray,Sales,Male,Other,Asia,54996,2016-04-24,,0,Standard,0,,5.69,5+ Years
+67,Colleen Larson,Sales,Male,Black,North America,84345,2016-11-25,,0,High,0,,5.1,5+ Years
+68,Matthew Stuart,Sales,Male,Other,Asia,52574,2016-11-29,,0,Standard,0,,5.09,5+ Years
+69,Donald Donaldson,Sales,Male,Black,South America,85965,2020-01-14,,0,High,0,,1.96,1-3 Years
+70,Logan Olson,Sales,Female,Other,Europe,95090,2017-05-13,,0,Standard,0,,4.64,3-5 Years
+71,Benjamin Costa,Sales,Male,Other,Asia,99989,2017-08-11,,0,Standard,0,,4.39,3-5 Years
+72,Allen Keller,Sales,Male,Asian,North America,118819,2020-10-15,,0,Standard,0,,1.21,1-3 Years
+73,Heather Carter MD,Sales,Female,Black,Asia,116036,2016-01-19,,0,Standard,0,,5.95,5+ Years
+74,Benjamin Dunlap,Sales,Female,Black,Europe,85364,2017-02-20,2021-09-08,1,Standard,0,Management Issues,4.55,3-5 Years
+75,Kelly Martinez,Sales,Female,Black,Asia,87225,2017-10-14,,0,Standard,0,,4.22,3-5 Years
+76,Richard Coffey,Sales,Male,Black,South America,74588,2018-12-20,,0,Standard,0,,3.03,3-5 Years
+77,Shannon Guerrero,Sales,Male,Black,Asia,48540,2017-04-02,,0,Standard,0,,4.75,3-5 Years
+78,Katelyn Lowe,Sales,Male,Asian,Europe,92371,2016-11-10,,0,Standard,0,,5.14,5+ Years
+79,Sean Lopez,Sales,Female,Black,North America,81523,2019-12-28,,0,Standard,0,,2.01,1-3 Years
+80,Douglas Tate,Sales,Female,Other,South America,70010,2017-05-23,2021-09-25,1,High,1,Salary,4.35,3-5 Years
+81,Colleen Solis,Sales,Female,Asian,Europe,71570,2016-07-20,,0,High,0,,5.45,5+ Years
+82,Krystal Patel,Sales,Male,Black,Europe,55202,2016-11-29,,0,Standard,0,,5.09,5+ Years
+83,Jennifer Baldwin,Sales,Female,Asian,Europe,99961,2018-07-06,,0,Standard,0,,3.49,3-5 Years
+84,Dylan Bailey,Sales,Male,Asian,North America,90786,2016-01-13,2021-12-01,1,High,1,Salary,5.89,5+ Years
+85,Paul Sanchez,Sales,Female,Other,Europe,58238,2016-06-20,,0,Standard,0,,5.53,5+ Years
+86,Katelyn Gonzales,Sales,Male,Asian,South America,69107,2018-08-24,,0,Standard,0,,3.36,3-5 Years
+87,Angela Carr,Sales,Male,Asian,South America,100432,2020-03-01,,0,High,0,,1.84,1-3 Years
+88,Christopher Elliott,Sales,Male,Asian,Europe,91463,2019-12-01,2021-11-21,1,Standard,0,Better Opportunity,1.98,1-3 Years
+89,Victoria Lewis,Sales,Male,Asian,Asia,58122,2016-06-08,,0,Standard,0,,5.57,5+ Years
+90,Randall White,Sales,Male,Other,Europe,117732,2017-10-17,2021-12-30,1,Standard,0,Better Opportunity,4.21,3-5 Years
+91,Kyle Ayala,Sales,Female,Asian,Europe,67118,2018-03-06,,0,Standard,0,,3.82,3-5 Years
+92,Sandra Villa,Sales,Female,Asian,North America,94576,2016-03-26,2021-10-17,1,High,1,Better Opportunity,5.56,5+ Years
+93,Joshua Bishop,Sales,Male,Asian,Asia,115341,2020-02-24,,0,Standard,0,,1.85,1-3 Years
+94,Margaret Flores,Sales,Female,Asian,Europe,83926,2020-04-07,2021-08-27,1,High,1,Better Opportunity,1.39,1-3 Years
+95,Hannah Allison,Sales,Male,Asian,North America,84205,2020-08-19,,0,High,0,,1.37,1-3 Years
+96,Jodi Roy,Sales,Female,Black,Europe,91808,2019-04-15,,0,Standard,0,,2.72,1-3 Years
+97,Evelyn Hernandez,Sales,Female,Asian,Asia,116465,2018-03-02,,0,Standard,0,,3.84,3-5 Years
+98,Deborah Cooper DVM,Sales,Female,Asian,Asia,88850,2017-05-19,,0,Standard,0,,4.62,3-5 Years
+99,Kristen Werner,Sales,Male,Other,North America,75855,2018-01-31,,0,Standard,0,,3.92,3-5 Years
+100,Miranda Smith,Sales,Male,Black,Asia,71442,2019-11-04,2021-06-23,1,High,1,Salary,1.64,1-3 Years
+101,Thomas Mckenzie,Sales,Male,Black,North America,57913,2018-04-06,2021-11-21,1,Standard,0,Salary,3.63,3-5 Years
+102,Kimberly Morris,Sales,Female,Black,Europe,79335,2019-04-14,,0,Standard,0,,2.72,1-3 Years
+103,Tina Barton,Sales,Male,Black,Asia,116488,2018-08-11,,0,Standard,0,,3.39,3-5 Years
+104,Gregory Garcia,Sales,Male,Black,North America,101714,2016-01-06,,0,Standard,0,,5.99,5+ Years
+105,Andrew Maddox,Sales,Male,Asian,South America,58431,2019-10-29,,0,High,0,,2.18,1-3 Years
+106,Amanda Reynolds,Sales,Male,Other,South America,95005,2020-04-13,,0,Standard,0,,1.72,1-3 Years
+107,Anthony Matthews,Sales,Male,Asian,North America,63646,2016-05-22,,0,Standard,0,,5.61,5+ Years
+108,Ralph Harris,Sales,Female,Black,South America,111936,2016-02-09,,0,Standard,0,,5.9,5+ Years
+109,James Drake,Sales,Female,Black,North America,69669,2020-07-21,,0,Standard,0,,1.45,1-3 Years
+110,Brian Willis,Sales,Female,Asian,Asia,102082,2020-01-06,,0,High,0,,1.99,1-3 Years
+111,Timothy Russell,Sales,Male,Asian,Europe,102488,2016-03-30,,0,High,0,,5.76,5+ Years
+112,Christopher Kim,Sales,Female,Asian,Europe,61132,2018-05-18,2021-10-13,1,High,1,Salary,3.41,3-5 Years
+113,Paula Watts,Sales,Male,Black,North America,70372,2020-01-15,,0,Standard,0,,1.96,1-3 Years
+114,William Cruz,Sales,Male,Black,North America,92656,2019-08-15,,0,Standard,0,,2.38,1-3 Years
+115,Andre Elliott,Sales,Male,Black,South America,113636,2018-04-21,,0,Standard,0,,3.7,3-5 Years
+116,Amber Gonzales,Sales,Female,Other,Europe,68884,2016-10-23,,0,Standard,0,,5.19,5+ Years
+117,Eric Foster,Sales,Female,Other,North America,89017,2017-07-26,,0,Standard,0,,4.44,3-5 Years
+118,Ryan Byrd,Sales,Female,Other,Europe,61998,2020-10-31,,0,Standard,0,,1.17,1-3 Years
+119,Katie Keller,Sales,Female,Other,Europe,60742,2017-09-06,2021-11-13,1,Standard,0,Better Opportunity,4.19,3-5 Years
+120,Barbara Tanner,Sales,Male,Other,North America,58119,2018-11-30,2021-08-28,1,Standard,0,Management Issues,2.75,1-3 Years
+121,Debra Everett,Sales,Male,Other,Europe,112110,2020-10-23,,0,Standard,0,,1.19,1-3 Years
+122,Jessica Ross,Sales,Female,Black,North America,71519,2017-07-20,2021-06-04,1,Standard,0,Management Issues,3.88,3-5 Years
+123,Timothy Wright,Sales,Male,Asian,Asia,67190,2020-03-10,,0,High,0,,1.81,1-3 Years
+124,Mary Werner,Sales,Male,Asian,Europe,50906,2017-12-29,,0,Standard,0,,4.01,3-5 Years
+125,Rebecca Flynn,Sales,Male,Other,North America,81188,2020-08-31,,0,Standard,0,,1.33,1-3 Years
+126,Taylor Miller,Sales,Female,Asian,Europe,105257,2018-08-14,2021-09-11,1,High,1,Work-Life Balance,3.08,3-5 Years
+127,Michael Romero,Sales,Male,Black,South America,86786,2018-09-06,2021-12-15,1,Standard,0,Better Opportunity,3.28,3-5 Years
+128,Michelle Tucker,Sales,Male,Asian,Asia,79219,2020-01-03,,0,Standard,0,,1.99,1-3 Years
+129,Frank Johnson,Sales,Female,Black,South America,87803,2016-11-02,,0,Standard,0,,5.16,5+ Years
+130,Patricia Smith,Sales,Female,Black,Asia,94780,2020-04-13,2021-07-13,1,Standard,0,Work-Life Balance,1.25,1-3 Years
+131,Christopher Glenn MD,Sales,Female,Black,South America,69558,2019-10-08,,0,High,0,,2.23,1-3 Years
+132,Julie Wall,Sales,Male,Black,Europe,49014,2021-07-02,,0,Standard,0,,0.5,0-1 Years
+133,Christine Morris,Sales,Female,Asian,Europe,61632,2019-05-25,,0,High,0,,2.61,1-3 Years
+134,Angela Davis,Sales,Female,Other,South America,111354,2017-08-20,,0,Standard,0,,4.37,3-5 Years
+135,James Perez,Sales,Male,Asian,Europe,57340,2019-06-01,,0,Standard,0,,2.59,1-3 Years
+136,Robyn Brown,Sales,Female,Other,Europe,113427,2021-05-08,,0,High,0,,0.65,0-1 Years
+137,Michele Gregory,Sales,Female,Black,Asia,50022,2017-04-07,2021-09-17,1,Standard,0,Better Opportunity,4.45,3-5 Years
+138,Darrell Baker,Sales,Female,Black,South America,105478,2018-08-19,,0,Standard,0,,3.37,3-5 Years
+139,Robert Reilly,Sales,Male,Black,North America,55319,2019-06-19,,0,Standard,0,,2.54,1-3 Years
+140,Philip Phillips,Sales,Male,Asian,North America,108117,2017-05-16,,0,High,0,,4.63,3-5 Years
+141,John Oneal,Sales,Male,Asian,Asia,115112,2016-07-23,,0,High,0,,5.44,5+ Years
+142,John Sullivan,Sales,Male,Other,Europe,69966,2016-08-16,,0,High,0,,5.38,5+ Years
+143,Alyssa Marquez,Sales,Male,Other,South America,70566,2016-04-07,,0,Standard,0,,5.74,5+ Years
+144,Christopher Bowen,Sales,Male,Other,Asia,70370,2021-06-26,2021-07-12,1,Standard,0,Better Opportunity,0.04,0-1 Years
+145,Lori Moss,Sales,Male,Other,Asia,78267,2018-03-17,,0,Standard,0,,3.79,3-5 Years
+146,Amanda Matthews,Sales,Male,Asian,South America,45236,2020-08-06,,0,Standard,0,,1.4,1-3 Years
+147,Taylor Orozco,Sales,Male,Other,Europe,92916,2016-06-06,,0,High,0,,5.57,5+ Years
+148,Aaron Wong,Sales,Female,Black,Europe,118015,2016-01-26,,0,Standard,0,,5.93,5+ Years
+149,Sandra Mckenzie,Sales,Male,Other,North America,113670,2016-11-03,,0,Standard,0,,5.16,5+ Years
+150,Caroline Barber,Sales,Female,Asian,North America,117499,2021-07-13,,0,Standard,0,,0.47,0-1 Years
+151,Carlos Sullivan,Sales,Male,Asian,Europe,88040,2021-05-12,,0,High,0,,0.64,0-1 Years
+152,Molly Torres,Sales,Male,Other,North America,49172,2018-08-27,,0,Standard,0,,3.35,3-5 Years
+153,Kurt Le,Sales,Male,Black,Asia,71415,2016-11-09,,0,High,0,,5.15,5+ Years
+154,Angela Nicholson,Sales,Female,Asian,Asia,50974,2018-10-02,,0,Standard,0,,3.25,3-5 Years
+155,Tanya Anderson,Sales,Female,Asian,South America,99324,2018-03-05,2021-07-19,1,Standard,0,Work-Life Balance,3.38,3-5 Years
+156,Joan Lee,Sales,Male,Black,South America,45323,2021-07-04,,0,High,0,,0.49,0-1 Years
+157,Elizabeth Mayer,Sales,Female,Asian,North America,80398,2018-04-07,,0,Standard,0,,3.74,3-5 Years
+158,William Warren,Sales,Female,Other,North America,95535,2016-04-03,,0,Standard,0,,5.75,5+ Years
+159,Jerry Compton,Sales,Male,Asian,Europe,104583,2021-01-14,,0,Standard,0,,0.96,0-1 Years
+160,Henry Branch,Sales,Male,Black,South America,111667,2018-08-22,,0,Standard,0,,3.36,3-5 Years
+161,Raymond Tucker,Sales,Female,Asian,South America,90205,2019-07-24,,0,Standard,0,,2.44,1-3 Years
+162,Angel Mcconnell,Sales,Male,Other,North America,51555,2018-01-20,,0,Standard,0,,3.95,3-5 Years
+163,Stephanie Jensen,Sales,Male,Asian,Europe,58251,2018-03-18,,0,Standard,0,,3.79,3-5 Years
+164,Jacob Berry,Sales,Female,Asian,Europe,91922,2017-06-10,2021-09-29,1,Standard,0,Better Opportunity,4.31,3-5 Years
+165,Mike Moran,Sales,Female,Other,Asia,93083,2019-01-03,,0,Standard,0,,2.99,1-3 Years
+166,Susan Pennington,Sales,Male,Other,North America,93642,2016-04-26,,0,Standard,0,,5.68,5+ Years
+167,Miguel Kelly,Sales,Female,Black,South America,58500,2017-02-15,2021-09-13,1,Standard,0,Better Opportunity,4.58,3-5 Years
+168,James Robinson,Sales,Female,Black,Asia,48241,2018-06-08,,0,Standard,0,,3.57,3-5 Years
+169,Richard Harris,Sales,Male,Black,Europe,118123,2020-01-22,,0,Standard,0,,1.94,1-3 Years
+170,James Carr,Sales,Female,Other,South America,100554,2021-06-26,,0,Standard,0,,0.52,0-1 Years
+171,Kimberly Mitchell,Sales,Male,Other,North America,64595,2018-01-14,,0,High,0,,3.96,3-5 Years
+172,Jeffrey Mendoza,Sales,Male,Asian,North America,47929,2016-08-26,,0,High,0,,5.35,5+ Years
+173,James Mckenzie,Sales,Female,Asian,South America,66476,2018-12-15,,0,Standard,0,,3.05,3-5 Years
+174,Ryan Perez,Sales,Female,Other,Asia,108478,2018-01-18,,0,Standard,0,,3.95,3-5 Years
+175,Lisa Mclean,Sales,Female,Black,Asia,90759,2018-08-02,,0,Standard,0,,3.42,3-5 Years
+176,Lauren Kelly,Sales,Female,Asian,South America,71463,2020-03-23,,0,High,0,,1.78,1-3 Years
+177,Paul Ortiz,Sales,Male,Asian,North America,103768,2018-10-18,2021-11-22,1,Standard,0,Salary,3.1,3-5 Years
+178,Jillian Daniels,Sales,Male,Other,South America,61772,2017-11-24,,0,High,0,,4.1,3-5 Years
+179,William Wood,Sales,Male,Asian,South America,73000,2016-08-18,,0,Standard,0,,5.37,5+ Years
+180,Jeffrey Camacho,Sales,Male,Black,Asia,76760,2020-10-04,,0,High,0,,1.24,1-3 Years
+181,Amanda Casey,Sales,Female,Other,South America,54658,2020-12-04,,0,Standard,0,,1.07,1-3 Years
+182,Scott Oneal,Sales,Female,Asian,Asia,99713,2019-06-06,2021-09-24,1,Standard,0,Better Opportunity,2.3,1-3 Years
+183,Diane Morris,Sales,Male,Asian,Europe,77942,2016-05-15,,0,High,0,,5.63,5+ Years
+184,Kelsey Merritt,Sales,Female,Black,South America,116018,2021-05-06,,0,Standard,0,,0.65,0-1 Years
+185,Sarah Sanders,Sales,Male,Other,Asia,71540,2019-11-06,,0,Standard,0,,2.15,1-3 Years
+186,Taylor Perry,Sales,Female,Black,North America,69096,2017-12-25,2021-09-04,1,Standard,0,Work-Life Balance,3.7,3-5 Years
+187,Shane Valencia,Sales,Female,Other,Europe,68591,2018-07-03,,0,High,0,,3.5,3-5 Years
+188,Martha Dixon,Sales,Male,Other,Europe,80586,2019-04-14,,0,High,0,,2.72,1-3 Years
+189,Anthony Stewart,Sales,Male,Other,Europe,47542,2019-11-02,,0,Standard,0,,2.16,1-3 Years
+190,Zachary Fernandez,Sales,Male,Black,Asia,96952,2020-06-09,,0,Standard,0,,1.56,1-3 Years
+191,Andrew Harrington,Sales,Male,Asian,North America,112486,2019-11-06,2021-11-14,1,Standard,0,Better Opportunity,2.02,1-3 Years
+192,Jonathan Jackson,Sales,Male,Asian,South America,87733,2017-02-02,,0,Standard,0,,4.91,3-5 Years
+193,Steven Jones,Sales,Female,Black,South America,61122,2017-05-27,,0,High,0,,4.6,3-5 Years
+194,Micheal Butler,Sales,Female,Asian,South America,76627,2017-01-06,,0,High,0,,4.99,3-5 Years
+195,Angela Sherman,Sales,Female,Other,North America,70498,2018-01-26,,0,Standard,0,,3.93,3-5 Years
+196,Robert Wagner,Sales,Male,Asian,Europe,81147,2016-03-13,,0,Standard,0,,5.81,5+ Years
+197,Jessica Neal,Sales,Male,Other,Europe,48500,2019-10-26,,0,Standard,0,,2.18,1-3 Years
+198,Scott Adams,Sales,Male,Black,North America,101680,2019-08-02,,0,Standard,0,,2.42,1-3 Years
+199,Jason Gonzalez,Sales,Male,Other,South America,71127,2016-10-06,,0,Standard,0,,5.24,5+ Years
+200,Donald Harris,Sales,Female,Other,Europe,99868,2018-04-08,,0,Standard,0,,3.73,3-5 Years
+201,Felicia Garcia,Sales,Male,Other,South America,116111,2016-07-07,,0,Standard,0,,5.49,5+ Years
+202,Cynthia Gonzalez,Sales,Male,Other,Europe,104706,2017-02-09,2021-06-28,1,Standard,0,Better Opportunity,4.38,3-5 Years
+203,Ian Espinoza,Sales,Male,Asian,Asia,70367,2019-08-01,,0,Standard,0,,2.42,1-3 Years
+204,Andrew Wade,Sales,Male,Other,South America,118691,2018-07-13,2021-07-24,1,Standard,0,Management Issues,3.03,3-5 Years
+205,Whitney Zavala,Sales,Female,Other,North America,88200,2017-04-11,,0,Standard,0,,4.73,3-5 Years
+206,Christina Mitchell,Sales,Female,Asian,Asia,114830,2020-12-28,,0,Standard,0,,1.01,1-3 Years
+207,Ryan Henderson,Sales,Male,Black,Europe,108853,2020-12-26,,0,High,0,,1.01,1-3 Years
+208,Carl Conner,Sales,Male,Black,Europe,78071,2018-07-03,,0,High,0,,3.5,3-5 Years
+209,Joseph Boyle,Sales,Male,Black,Asia,99610,2017-10-08,2021-08-22,1,Standard,0,Management Issues,3.87,3-5 Years
+210,Claire Davis,Sales,Female,Black,North America,50265,2019-07-11,,0,Standard,0,,2.48,1-3 Years
+211,Charles Herrera,Sales,Female,Black,Asia,55275,2017-10-26,,0,Standard,0,,4.18,3-5 Years
+212,Robert Murphy,Sales,Male,Other,Europe,46097,2016-05-19,2021-07-05,1,High,1,Salary,5.13,5+ Years
+213,Shawn Ray,Sales,Female,Asian,North America,77905,2019-04-05,2021-07-26,1,Standard,0,Better Opportunity,2.31,1-3 Years
+214,Robert Holt,Sales,Female,Other,South America,52786,2018-10-02,,0,Standard,0,,3.25,3-5 Years
+215,William Carter,Sales,Male,Other,Asia,62427,2017-09-20,,0,Standard,0,,4.28,3-5 Years
+216,Christine Bryant,Sales,Female,Asian,North America,81646,2019-09-25,,0,Standard,0,,2.27,1-3 Years
+217,Carla Brown,Sales,Female,Black,South America,75463,2019-11-10,,0,Standard,0,,2.14,1-3 Years
+218,Robin Moore,Sales,Female,Other,Asia,93567,2016-02-03,,0,Standard,0,,5.91,5+ Years
+219,Makayla Fernandez,Sales,Female,Other,Asia,48078,2019-09-22,2021-11-15,1,High,1,Salary,2.15,1-3 Years
+220,Melissa Robinson,Sales,Male,Other,Asia,100925,2018-01-29,,0,High,0,,3.92,3-5 Years
+221,William Obrien,Sales,Male,Other,South America,46880,2018-05-04,,0,Standard,0,,3.66,3-5 Years
+222,Chad Smith,Sales,Male,Black,North America,95026,2018-07-28,,0,Standard,0,,3.43,3-5 Years
+223,Alexandra Kennedy,Sales,Male,Black,South America,53527,2020-09-28,,0,Standard,0,,1.26,1-3 Years
+224,Jessica Campbell,Sales,Male,Black,South America,59124,2019-11-19,,0,Standard,0,,2.12,1-3 Years
+225,Amanda Flores,Sales,Female,Black,North America,111814,2018-05-08,,0,Standard,0,,3.65,3-5 Years
+226,Heather Rojas,Sales,Female,Other,North America,64711,2019-08-14,,0,Standard,0,,2.38,1-3 Years
+227,James Lewis,Sales,Male,Black,North America,118439,2020-09-14,,0,Standard,0,,1.3,1-3 Years
+228,Lindsay Delgado,Sales,Male,Black,South America,97163,2017-03-28,,0,Standard,0,,4.76,3-5 Years
+229,Douglas Hays,Sales,Male,Black,Europe,47545,2016-01-28,,0,Standard,0,,5.93,5+ Years
+230,Megan Kidd,Sales,Male,Asian,North America,94861,2016-09-20,,0,Standard,0,,5.28,5+ Years
+231,Lisa Taylor,Sales,Male,Black,Asia,51573,2021-04-21,,0,Standard,0,,0.7,0-1 Years
+232,Candice Munoz,Sales,Female,Asian,Europe,107148,2018-07-24,,0,Standard,0,,3.44,3-5 Years
+233,Kevin Johnston,Sales,Male,Other,South America,52502,2017-04-08,,0,Standard,0,,4.73,3-5 Years
+234,Allison Simmons,Sales,Female,Asian,Asia,69566,2016-10-30,,0,Standard,0,,5.17,5+ Years
+235,Morgan Walters,Sales,Female,Asian,Europe,51995,2020-05-17,2021-12-05,1,High,1,Management Issues,1.55,1-3 Years
+236,Veronica Young,Sales,Male,Black,North America,115692,2016-11-03,,0,Standard,0,,5.16,5+ Years
+237,Patrick Avila,Sales,Female,Black,South America,79300,2019-08-19,,0,Standard,0,,2.37,1-3 Years
+238,Julia Jackson,Sales,Female,Other,Asia,115141,2019-05-27,,0,Standard,0,,2.6,1-3 Years
+239,Craig Bray,Sales,Female,Black,Europe,67633,2016-04-25,,0,Standard,0,,5.69,5+ Years
+240,Renee Gallegos,Sales,Female,Black,Asia,46049,2019-09-27,,0,Standard,0,,2.26,1-3 Years
+241,Monica Archer,Sales,Male,Asian,South America,70823,2016-02-28,,0,Standard,0,,5.84,5+ Years
+242,Jennifer Norris,Sales,Female,Other,Asia,108215,2021-01-20,,0,Standard,0,,0.95,0-1 Years
+243,Adrienne Holloway,Sales,Female,Black,Asia,73452,2018-03-19,,0,High,0,,3.79,3-5 Years
+244,Joshua Logan,Sales,Male,Other,North America,97677,2020-05-05,,0,Standard,0,,1.66,1-3 Years
+245,Anthony Torres,Sales,Female,Asian,South America,71832,2021-05-14,,0,Standard,0,,0.63,0-1 Years
+246,Brandy Delgado,Sales,Female,Black,Europe,110852,2020-06-02,,0,Standard,0,,1.58,1-3 Years
+247,Chad Clark,Sales,Female,Asian,North America,111836,2020-08-30,,0,High,0,,1.34,1-3 Years
+248,Susan Maldonado,Sales,Male,Other,Asia,78302,2021-02-06,,0,Standard,0,,0.9,0-1 Years
+249,Mary Wallace,Sales,Male,Asian,North America,60118,2019-01-04,,0,Standard,0,,2.99,1-3 Years
+250,Emily Bishop,Sales,Male,Other,Asia,102382,2018-10-25,,0,Standard,0,,3.19,3-5 Years
+251,Alicia Chung,Sales,Male,Asian,South America,61878,2021-01-01,,0,Standard,0,,1.0,0-1 Years
+252,Ernest Rowe,Sales,Female,Asian,South America,74790,2021-01-01,,0,Standard,0,,1.0,0-1 Years
+253,Kelsey Jones,Sales,Male,Asian,Europe,97546,2017-03-02,,0,Standard,0,,4.84,3-5 Years
+254,Erik Young,Sales,Male,Asian,North America,45642,2020-10-26,,0,Standard,0,,1.18,1-3 Years
+255,Tara Bell,Sales,Female,Asian,Asia,108560,2017-07-08,,0,Standard,0,,4.48,3-5 Years
+256,Kevin Lopez,Sales,Male,Asian,South America,80047,2017-04-22,,0,Standard,0,,4.7,3-5 Years
+257,Amber Compton,Sales,Male,Other,North America,96285,2020-06-02,,0,Standard,0,,1.58,1-3 Years
+258,Randy Ryan,Sales,Male,Other,South America,70309,2019-12-04,,0,High,0,,2.08,1-3 Years
+259,Amy Oliver,Sales,Male,Asian,North America,104604,2019-03-26,,0,Standard,0,,2.77,1-3 Years
+260,Sarah Brown,Sales,Male,Asian,Asia,69169,2016-04-23,2021-07-27,1,Standard,0,Better Opportunity,5.26,5+ Years
+261,Rita Wagner,Sales,Male,Black,Asia,70033,2018-12-30,,0,Standard,0,,3.01,3-5 Years
+262,Ronald Stevenson,Sales,Female,Black,South America,66366,2020-01-31,,0,High,0,,1.92,1-3 Years
+263,Jennifer Harris,Sales,Female,Black,Asia,64231,2021-02-18,,0,High,0,,0.87,0-1 Years
+264,Brandon Burke,Sales,Male,Other,North America,88940,2017-01-20,2021-07-02,1,Standard,0,Better Opportunity,4.45,3-5 Years
+265,Rebecca Anderson,Sales,Male,Asian,South America,87697,2017-11-30,,0,Standard,0,,4.09,3-5 Years
+266,Megan Smith,Sales,Female,Other,North America,95828,2017-03-17,,0,High,0,,4.79,3-5 Years
+267,Kathy Underwood,Sales,Male,Asian,Europe,47723,2021-06-03,,0,Standard,0,,0.58,0-1 Years
+268,Sandra Walter,Sales,Male,Asian,Europe,81856,2019-12-22,,0,Standard,0,,2.03,1-3 Years
+269,Jessica Phillips,Sales,Female,Asian,North America,50241,2019-12-16,,0,Standard,0,,2.04,1-3 Years
+270,Susan Marquez,Sales,Female,Other,Asia,68855,2019-12-20,,0,Standard,0,,2.03,1-3 Years
+271,Tina Alvarado,Sales,Male,Asian,Europe,106001,2018-07-22,,0,Standard,0,,3.45,3-5 Years
+272,Heather Jones,Sales,Female,Asian,Europe,112016,2017-04-11,,0,High,0,,4.73,3-5 Years
+273,Aaron Austin,Sales,Male,Black,Asia,108079,2020-03-21,2021-07-02,1,Standard,0,Management Issues,1.28,1-3 Years
+274,Jamie Harris,Sales,Male,Other,North America,55585,2017-11-05,,0,High,0,,4.16,3-5 Years
+275,Wendy Hughes,Sales,Female,Other,South America,68688,2018-08-26,,0,Standard,0,,3.35,3-5 Years
+276,Rachel Khan,Sales,Female,Asian,North America,103862,2018-07-10,,0,Standard,0,,3.48,3-5 Years
+277,Jessica Villegas,Sales,Male,Asian,North America,116782,2019-12-29,,0,Standard,0,,2.01,1-3 Years
+278,Sean Orr,Sales,Female,Asian,Europe,93347,2017-12-30,,0,Standard,0,,4.01,3-5 Years
+279,Jonathan Williams,Sales,Female,Black,Europe,92372,2019-01-07,,0,High,0,,2.98,1-3 Years
+280,Raymond Valencia,Sales,Female,Other,South America,62531,2020-02-28,,0,High,0,,1.84,1-3 Years
+281,Bethany Miles,Sales,Male,Black,Europe,60229,2018-01-09,,0,Standard,0,,3.98,3-5 Years
+282,Rose Matthews,Sales,Female,Black,North America,51822,2017-04-14,,0,High,0,,4.72,3-5 Years
+283,Tiffany Stout,Sales,Male,Asian,North America,71182,2018-07-02,,0,Standard,0,,3.5,3-5 Years
+284,James Thomas,Sales,Female,Other,North America,109270,2019-09-12,,0,Standard,0,,2.3,1-3 Years
+285,Joseph Gay,Sales,Female,Other,Asia,104233,2018-07-19,2021-11-05,1,Standard,0,Better Opportunity,3.3,3-5 Years
+286,Marie Lawson,Sales,Female,Asian,South America,84530,2016-06-20,2021-10-06,1,Standard,0,Better Opportunity,5.3,5+ Years
+287,Carmen Hamilton,Sales,Male,Asian,South America,71664,2020-04-22,,0,High,0,,1.69,1-3 Years
+288,Grace Anderson,Sales,Female,Asian,South America,82641,2020-11-27,2021-09-27,1,Standard,0,Better Opportunity,0.83,0-1 Years
+289,Sabrina Poole,Sales,Female,Asian,Europe,88558,2021-02-03,,0,Standard,0,,0.91,0-1 Years
+290,Meagan Frey,Sales,Male,Black,North America,111685,2020-11-10,,0,High,0,,1.14,1-3 Years
+291,Michael Durham,Sales,Male,Other,North America,85161,2017-12-09,,0,Standard,0,,4.06,3-5 Years
+292,Cynthia Barber,Sales,Female,Asian,North America,105958,2017-12-22,,0,Standard,0,,4.03,3-5 Years
+293,Thomas Howard,Sales,Female,Asian,South America,86825,2018-07-26,,0,Standard,0,,3.44,3-5 Years
+294,Paul Levine,Sales,Male,Black,Europe,60248,2020-10-10,2021-09-28,1,Standard,0,Management Issues,0.97,0-1 Years
+295,Joshua Tran,Sales,Male,Black,Asia,64540,2019-08-01,,0,Standard,0,,2.42,1-3 Years
+296,Joel Myers,Sales,Male,Other,Asia,107196,2020-08-22,,0,Standard,0,,1.36,1-3 Years
+297,Robin Nguyen,Sales,Male,Asian,South America,45869,2018-09-17,,0,High,0,,3.29,3-5 Years
+298,Fred Farmer,Sales,Male,Asian,South America,109792,2019-07-31,,0,Standard,0,,2.42,1-3 Years
+299,Johnathan Jackson,Sales,Male,Asian,Asia,102853,2019-10-26,2021-08-22,1,High,1,Work-Life Balance,1.82,1-3 Years
+300,Jessica Johnson,Sales,Female,Other,South America,90647,2018-05-21,,0,Standard,0,,3.62,3-5 Years
+301,Catherine Gardner,Sales,Female,Black,Europe,71781,2018-11-06,,0,Standard,0,,3.15,3-5 Years
+302,Jacob Peterson,Sales,Male,Other,Asia,102012,2017-02-10,2021-09-11,1,Standard,0,Work-Life Balance,4.59,3-5 Years
+303,Paul Adams,Sales,Male,Asian,North America,104240,2020-12-20,,0,Standard,0,,1.03,1-3 Years
+304,Roger Cameron,Sales,Male,Asian,South America,47032,2017-09-21,,0,High,0,,4.28,3-5 Years
+305,Dr. Jared Hall DVM,Sales,Female,Asian,North America,83989,2016-06-14,2021-09-25,1,Standard,0,Work-Life Balance,5.28,5+ Years
+306,Erica Campbell,Sales,Female,Asian,Europe,78580,2019-07-13,,0,High,0,,2.47,1-3 Years
+307,Jennifer Howe,Sales,Male,Other,Europe,50700,2017-02-01,,0,Standard,0,,4.92,3-5 Years
+308,Laura Brown,Sales,Male,Asian,Europe,110858,2017-01-17,,0,Standard,0,,4.96,3-5 Years
+309,Michael Taylor,Sales,Female,Other,North America,56517,2020-07-05,,0,Standard,0,,1.49,1-3 Years
+310,Renee Miller,Sales,Male,Asian,Asia,109422,2020-09-20,,0,High,0,,1.28,1-3 Years
+311,Sarah Brown,Sales,Male,Black,Europe,84111,2020-12-16,,0,Standard,0,,1.04,1-3 Years
+312,Peter Peterson,Sales,Female,Other,Asia,67729,2021-06-13,,0,Standard,0,,0.55,0-1 Years
+313,David Lynch,Sales,Female,Other,Europe,103543,2017-10-27,,0,Standard,0,,4.18,3-5 Years
+314,Ricardo Farrell,Sales,Male,Asian,South America,52490,2021-04-15,,0,Standard,0,,0.71,0-1 Years
+315,Charles Potter,Sales,Female,Other,Asia,62309,2018-09-01,,0,Standard,0,,3.33,3-5 Years
+316,Susan Turner,Sales,Female,Other,Asia,113360,2020-06-28,,0,Standard,0,,1.51,1-3 Years
+317,Peter Taylor,Sales,Male,Other,Europe,67359,2017-01-25,,0,Standard,0,,4.93,3-5 Years
+318,Michael Martin,Sales,Male,Black,South America,109772,2020-02-29,,0,Standard,0,,1.84,1-3 Years
+319,Shaun Glenn,Sales,Male,Other,Europe,69751,2017-05-12,,0,Standard,0,,4.64,3-5 Years
+320,Dawn Smith,Sales,Female,Black,South America,106744,2017-04-22,,0,Standard,0,,4.7,3-5 Years
+321,Allen Williams,Sales,Male,Black,Asia,85509,2020-08-17,,0,High,0,,1.37,1-3 Years
+322,Jacob Tucker,Sales,Female,Asian,Europe,56040,2020-06-04,2021-07-03,1,High,1,Work-Life Balance,1.08,1-3 Years
+323,Aaron Powell,Sales,Male,Asian,South America,54648,2020-01-11,,0,High,0,,1.97,1-3 Years
+324,Devin Ryan,Sales,Male,Other,Europe,119442,2020-01-29,2021-09-14,1,Standard,0,Work-Life Balance,1.63,1-3 Years
+325,Scott Jackson,Sales,Female,Asian,North America,95839,2021-05-26,,0,High,0,,0.6,0-1 Years
+326,Emily Manning,Sales,Male,Black,Europe,109360,2020-06-04,,0,High,0,,1.58,1-3 Years
+327,Heather Gonzalez,Sales,Female,Asian,Asia,87371,2016-12-25,,0,High,0,,5.02,5+ Years
+328,Adam Evans DDS,Sales,Female,Other,Asia,77758,2020-11-13,,0,High,0,,1.13,1-3 Years
+329,Pamela Lewis,Sales,Male,Asian,Asia,103980,2018-11-08,,0,Standard,0,,3.15,3-5 Years
+330,Michael Williams,Sales,Female,Black,Europe,108251,2018-12-03,,0,Standard,0,,3.08,3-5 Years
+331,Omar Cuevas,Sales,Male,Other,Europe,98174,2020-12-26,,0,High,0,,1.01,1-3 Years
+332,Kristin Washington,Sales,Female,Black,Asia,117801,2019-06-10,2021-09-14,1,High,1,Better Opportunity,2.27,1-3 Years
+333,Edwin Clayton,Sales,Male,Black,North America,101900,2016-11-03,,0,Standard,0,,5.16,5+ Years
+334,Ricky Gomez,Sales,Female,Asian,South America,52844,2019-09-14,,0,High,0,,2.3,1-3 Years
+335,Frances Edwards,Sales,Female,Black,Europe,89934,2020-04-06,,0,Standard,0,,1.74,1-3 Years
+336,David Cooper,Sales,Male,Black,Europe,113208,2017-05-17,,0,Standard,0,,4.63,3-5 Years
+337,Jeffery Vazquez,Sales,Male,Other,Europe,107771,2016-07-07,,0,Standard,0,,5.49,5+ Years
+338,Dr. Anthony Sanchez,Sales,Male,Other,Europe,73694,2016-09-28,,0,Standard,0,,5.26,5+ Years
+339,Sergio Anderson,Sales,Male,Other,North America,95764,2016-09-13,,0,Standard,0,,5.3,5+ Years
+340,Robert Lambert,Sales,Female,Asian,Asia,55685,2020-01-28,,0,Standard,0,,1.93,1-3 Years
+341,Rita Obrien,Sales,Male,Other,South America,116560,2017-09-26,,0,Standard,0,,4.27,3-5 Years
+342,Bruce Ramirez,Sales,Female,Other,Asia,48486,2017-11-18,,0,Standard,0,,4.12,3-5 Years
+343,Janice Meyer,Sales,Male,Asian,South America,78968,2019-02-23,2021-09-11,1,High,1,Salary,2.55,1-3 Years
+344,Jeffrey Montgomery,Sales,Female,Black,Europe,59311,2020-09-30,,0,Standard,0,,1.25,1-3 Years
+345,Mrs. Cheyenne Dawson,Sales,Male,Asian,Europe,60090,2016-01-20,,0,Standard,0,,5.95,5+ Years
+346,Jennifer Reyes,Sales,Male,Black,North America,98221,2018-01-21,,0,Standard,0,,3.95,3-5 Years
+347,Teresa Hall,Sales,Male,Black,North America,119511,2019-04-30,,0,Standard,0,,2.67,1-3 Years
+348,Diane Burton,Sales,Male,Asian,Europe,80347,2019-04-04,,0,High,0,,2.75,1-3 Years
+349,Michael Cook,Sales,Female,Other,Europe,78731,2019-11-26,,0,High,0,,2.1,1-3 Years
+350,Tanya Reese,Sales,Male,Black,South America,116424,2016-01-05,,0,Standard,0,,5.99,5+ Years
+351,Logan Mcguire,Sales,Female,Asian,North America,77098,2019-05-08,,0,Standard,0,,2.65,1-3 Years
+352,Tina Phillips,Sales,Male,Black,Asia,97500,2018-08-01,,0,Standard,0,,3.42,3-5 Years
+353,Taylor Brown,Sales,Female,Asian,North America,109602,2020-01-13,,0,Standard,0,,1.97,1-3 Years
+354,Stephen Moore,Sales,Male,Black,Europe,61769,2020-12-25,,0,Standard,0,,1.02,1-3 Years
+355,Glenn Gonzalez,Sales,Male,Black,Europe,102833,2016-11-14,,0,Standard,0,,5.13,5+ Years
+356,Michael Reyes,Sales,Male,Black,North America,110155,2017-02-04,,0,Standard,0,,4.91,3-5 Years
+357,David Boyer,Sales,Female,Asian,South America,59913,2020-05-02,,0,Standard,0,,1.67,1-3 Years
+358,Larry Miller,Sales,Female,Asian,South America,90294,2018-04-06,,0,Standard,0,,3.74,3-5 Years
+359,Cameron Harrison,Sales,Female,Other,South America,95075,2017-11-24,,0,High,0,,4.1,3-5 Years
+360,Victor Eaton,Sales,Male,Asian,North America,80587,2019-07-31,,0,Standard,0,,2.42,1-3 Years
+361,Sherry Allen,Sales,Male,Asian,Asia,45566,2019-12-05,,0,Standard,0,,2.07,1-3 Years
+362,Gregory Hancock,Sales,Male,Other,Asia,103906,2020-10-04,,0,Standard,0,,1.24,1-3 Years
+363,Veronica Johnson,Sales,Female,Black,North America,54435,2020-01-15,,0,Standard,0,,1.96,1-3 Years
+364,Carl Norton,Sales,Male,Black,Europe,85011,2017-01-07,,0,Standard,0,,4.98,3-5 Years
+365,Melanie King,Sales,Male,Asian,Asia,78353,2016-01-29,,0,Standard,0,,5.93,5+ Years
+366,Jake Harper,Sales,Male,Asian,Asia,100550,2017-12-18,,0,High,0,,4.04,3-5 Years
+367,Joshua Walker,Sales,Female,Black,North America,54264,2019-07-30,,0,Standard,0,,2.42,1-3 Years
+368,Stephen Wilson,Sales,Male,Asian,South America,83832,2017-09-08,2021-11-18,1,High,1,Work-Life Balance,4.2,3-5 Years
+369,Jacqueline Thornton,Sales,Female,Asian,Europe,80131,2017-01-24,,0,Standard,0,,4.94,3-5 Years
+370,Chad Baker,Sales,Female,Black,Europe,59110,2016-07-22,,0,Standard,0,,5.45,5+ Years
+371,Shawn Roberson,Sales,Female,Other,Asia,116499,2019-05-15,2021-08-11,1,High,1,Better Opportunity,2.24,1-3 Years
+372,John Adams,Sales,Male,Asian,Europe,100220,2019-02-22,,0,Standard,0,,2.86,1-3 Years
+373,Jennifer Richmond,Sales,Female,Black,North America,108478,2019-04-23,2021-07-16,1,Standard,0,Management Issues,2.23,1-3 Years
+374,Ann Hansen,Sales,Female,Black,Europe,110944,2017-03-03,,0,High,0,,4.83,3-5 Years
+375,Anna Hubbard,Sales,Female,Other,Europe,96669,2017-02-27,,0,Standard,0,,4.84,3-5 Years
+376,Nicole Garcia,Sales,Female,Asian,Asia,53986,2020-12-15,,0,Standard,0,,1.04,1-3 Years
+377,Johnny Wright III,Sales,Female,Other,Europe,58696,2019-02-14,,0,Standard,0,,2.88,1-3 Years
+378,Benjamin Henderson,Sales,Female,Asian,Europe,48941,2016-10-19,2021-06-12,1,Standard,0,Salary,4.65,3-5 Years
+379,Lisa Hall,Sales,Male,Asian,South America,49682,2016-05-26,2021-12-14,1,Standard,0,Work-Life Balance,5.56,5+ Years
+380,Adam Taylor,Sales,Male,Asian,Asia,116940,2019-06-04,,0,Standard,0,,2.58,1-3 Years
+381,Kyle Barnes,Sales,Male,Other,North America,45505,2018-11-20,,0,Standard,0,,3.12,3-5 Years
+382,Charles Kim,Sales,Female,Black,North America,77317,2016-08-26,,0,Standard,0,,5.35,5+ Years
+383,Jacqueline Nunez,Sales,Female,Asian,Europe,88436,2020-04-02,,0,Standard,0,,1.75,1-3 Years
+384,Erik Lopez,Sales,Female,Asian,South America,51645,2018-07-07,2021-10-07,1,Standard,0,Work-Life Balance,3.25,3-5 Years
+385,Hannah Bautista,Sales,Female,Black,South America,72892,2018-07-02,2021-07-26,1,Standard,0,Better Opportunity,3.07,3-5 Years
+386,Megan Erickson,Sales,Female,Black,Europe,118310,2019-01-03,,0,Standard,0,,2.99,1-3 Years
+387,Brian Black,Sales,Female,Black,South America,112046,2018-05-10,2021-07-29,1,Standard,0,Better Opportunity,3.22,3-5 Years
+388,Danielle Daniels,Sales,Female,Asian,South America,114267,2020-01-28,,0,Standard,0,,1.93,1-3 Years
+389,Matthew Nichols,Sales,Male,Black,South America,106337,2018-07-30,,0,High,0,,3.42,3-5 Years
+390,Michelle Mcdaniel,Sales,Male,Other,North America,90314,2021-02-11,,0,Standard,0,,0.88,0-1 Years
+391,Shannon Franklin,Sales,Male,Other,South America,73172,2017-07-22,,0,High,0,,4.45,3-5 Years
+392,Kimberly Garcia,Sales,Male,Asian,Asia,64080,2018-01-25,,0,Standard,0,,3.93,3-5 Years
+393,Christopher Lopez,Sales,Male,Asian,South America,83551,2016-04-20,,0,Standard,0,,5.7,5+ Years
+394,Mary Steele,Sales,Female,Other,Asia,71545,2020-11-25,,0,Standard,0,,1.1,1-3 Years
+395,Samuel Goodman,Sales,Male,Asian,Europe,49909,2017-03-01,2021-12-05,1,Standard,0,Better Opportunity,4.77,3-5 Years
+396,Cynthia Adams,Sales,Female,Black,North America,48887,2021-01-14,,0,Standard,0,,0.96,0-1 Years
+397,Courtney French,Sales,Male,Other,Europe,74027,2016-10-19,,0,Standard,0,,5.2,5+ Years
+398,Andrea Flores,Sales,Male,Black,North America,49480,2018-01-06,,0,Standard,0,,3.99,3-5 Years
+399,Leah Lee,Sales,Female,Asian,North America,107044,2017-07-28,,0,Standard,0,,4.43,3-5 Years
+400,Emily Kennedy,Sales,Female,Other,Asia,96922,2016-12-13,,0,Standard,0,,5.05,5+ Years
+401,Sara Richard,Sales,Female,Asian,North America,113156,2018-11-21,,0,High,0,,3.11,3-5 Years
+402,Amber Soto,Sales,Male,Black,Europe,93722,2018-11-16,,0,Standard,0,,3.13,3-5 Years
+403,Joseph Brown,Sales,Male,Asian,Asia,64742,2018-01-05,,0,Standard,0,,3.99,3-5 Years
+404,Carlos Richardson,Sales,Female,Asian,Asia,53234,2016-09-27,,0,High,0,,5.26,5+ Years
+405,Sandra Ford,Sales,Male,Black,South America,48919,2017-10-22,,0,Standard,0,,4.19,3-5 Years
+406,Marissa Walker,Sales,Female,Asian,Europe,116702,2019-12-02,,0,Standard,0,,2.08,1-3 Years
+407,James Thomas,Sales,Female,Other,Asia,100622,2021-05-26,,0,Standard,0,,0.6,0-1 Years
+408,Dr. Sophia Tucker,Sales,Male,Black,North America,72894,2017-08-13,,0,High,0,,4.39,3-5 Years
+409,April Cervantes,Sales,Male,Asian,Europe,92030,2018-11-09,,0,Standard,0,,3.15,3-5 Years
+410,Mark Harris,Sales,Female,Black,South America,98841,2017-11-16,2021-08-14,1,Standard,0,Salary,3.75,3-5 Years
+411,Anna Blair,Sales,Male,Black,Europe,103173,2018-01-15,,0,Standard,0,,3.96,3-5 Years
+412,Donald Barrera,Sales,Male,Black,Asia,100065,2017-04-19,2021-09-04,1,Standard,0,Work-Life Balance,4.38,3-5 Years
+413,William Hanna,Sales,Female,Other,South America,94353,2018-11-17,,0,Standard,0,,3.12,3-5 Years
+414,Michael Duncan,Sales,Female,Asian,Asia,107097,2017-08-25,,0,Standard,0,,4.35,3-5 Years
+415,Anthony Diaz,Sales,Male,Asian,North America,104784,2016-07-07,,0,Standard,0,,5.49,5+ Years
+416,Christine Stout,Sales,Female,Black,Asia,114346,2019-06-25,,0,Standard,0,,2.52,1-3 Years
+417,Donna Smith,Sales,Female,Black,Europe,104346,2018-02-24,2021-06-08,1,Standard,0,Work-Life Balance,3.29,3-5 Years
+418,Paul Pennington,Sales,Male,Black,North America,61216,2016-07-07,2021-12-06,1,Standard,0,Salary,5.42,5+ Years
+419,Melinda Santana,Sales,Female,Black,Europe,79319,2017-06-20,,0,Standard,0,,4.53,3-5 Years
+420,Nicole Wiley,Sales,Male,Asian,North America,73712,2018-11-17,,0,Standard,0,,3.12,3-5 Years
+421,Joseph Jackson,Sales,Female,Other,Europe,71532,2020-06-19,,0,Standard,0,,1.53,1-3 Years
+422,Janice Hartman,Sales,Male,Black,Asia,89461,2017-05-28,,0,High,0,,4.6,3-5 Years
+423,Melissa Ponce,Sales,Female,Asian,Europe,55865,2018-04-08,,0,Standard,0,,3.73,3-5 Years
+424,Patricia Joyce,Sales,Female,Black,Asia,73630,2018-02-05,,0,Standard,0,,3.9,3-5 Years
+425,Kelly Kennedy,Sales,Male,Other,Europe,81546,2020-12-04,,0,Standard,0,,1.07,1-3 Years
+426,William Wheeler,Sales,Female,Black,South America,54492,2017-02-03,,0,Standard,0,,4.91,3-5 Years
+427,Sarah Hill,Sales,Female,Asian,South America,87290,2016-07-11,,0,Standard,0,,5.48,5+ Years
+428,Ann Barry,Sales,Female,Asian,Asia,105974,2021-02-23,,0,Standard,0,,0.85,0-1 Years
+429,Veronica Walker,Sales,Female,Black,North America,111066,2019-10-20,,0,High,0,,2.2,1-3 Years
+430,Cory Carr,Sales,Male,Other,North America,65647,2016-11-11,,0,Standard,0,,5.14,5+ Years
+431,Lisa Gomez,Sales,Female,Black,Asia,107270,2019-07-06,,0,Standard,0,,2.49,1-3 Years
+432,Alicia Shaw,Sales,Female,Other,North America,83366,2019-12-26,,0,Standard,0,,2.02,1-3 Years
+433,Mary Lopez,Sales,Male,Asian,South America,78754,2016-12-02,,0,Standard,0,,5.08,5+ Years
+434,Benjamin Cook,Sales,Female,Asian,North America,117870,2018-03-25,2021-09-01,1,Standard,0,Better Opportunity,3.44,3-5 Years
+435,Thomas Moore,Sales,Male,Black,Asia,57723,2018-12-15,,0,Standard,0,,3.05,3-5 Years
+436,Laura Sosa,Sales,Female,Black,Europe,97653,2016-05-28,,0,High,0,,5.6,5+ Years
+437,Brett Ortiz,Sales,Female,Asian,North America,61211,2021-01-30,,0,Standard,0,,0.92,0-1 Years
+438,Tonya Bauer,Sales,Male,Asian,Europe,96516,2020-02-02,2021-07-27,1,High,1,Work-Life Balance,1.48,1-3 Years
+439,Eric Scott,Sales,Female,Black,Europe,105550,2018-05-09,,0,High,0,,3.65,3-5 Years
+440,David Tapia,Sales,Male,Asian,South America,68869,2020-09-12,,0,Standard,0,,1.3,1-3 Years
+441,Vickie Montes,Sales,Male,Asian,South America,90377,2019-10-06,,0,Standard,0,,2.24,1-3 Years
+442,Elizabeth Holder,Sales,Male,Black,Europe,109709,2018-04-20,,0,Standard,0,,3.7,3-5 Years
+443,Leslie Campbell,Sales,Female,Black,Europe,109096,2016-11-27,,0,Standard,0,,5.1,5+ Years
+444,Shelly Navarro,Sales,Female,Black,Europe,94917,2019-01-14,,0,Standard,0,,2.96,1-3 Years
+445,Gabriel Giles,Sales,Female,Other,North America,87615,2016-10-01,,0,Standard,0,,5.25,5+ Years
+446,Michael Fernandez,Sales,Male,Other,South America,60464,2018-10-14,2021-11-15,1,High,1,Better Opportunity,3.09,3-5 Years
+447,Thomas Thompson,Sales,Female,Asian,Europe,46843,2018-04-11,,0,Standard,0,,3.73,3-5 Years
+448,Briana Reed,Sales,Female,Black,North America,86264,2019-10-13,,0,High,0,,2.22,1-3 Years
+449,Bryan Floyd,Sales,Female,Black,North America,48820,2018-04-22,,0,Standard,0,,3.7,3-5 Years
+450,Tanya Allen,Sales,Female,Black,North America,108797,2019-01-01,,0,Standard,0,,3.0,1-3 Years
+451,Mary Acosta,Marketing,Female,Black,Asia,66958,2019-12-30,,0,Standard,0,,2.01,1-3 Years
+452,Matthew Perkins,Marketing,Male,Asian,Europe,52971,2019-10-06,,0,Standard,0,,2.24,1-3 Years
+453,Colleen Adkins,Marketing,Female,Asian,Europe,48572,2021-07-05,2021-09-22,1,Standard,0,Better Opportunity,0.22,0-1 Years
+454,Amy Macdonald,Marketing,Male,Other,Asia,86194,2018-04-29,,0,Standard,0,,3.68,3-5 Years
+455,Judy Wright,Marketing,Male,Other,Europe,68558,2016-09-28,,0,Standard,0,,5.26,5+ Years
+456,Andrea Villa,Marketing,Female,Other,Europe,77232,2018-03-30,,0,High,0,,3.76,3-5 Years
+457,Casey Scott,Marketing,Female,Other,South America,90159,2020-06-27,,0,Standard,0,,1.51,1-3 Years
+458,Tyler Marshall,Marketing,Female,Other,Europe,87335,2016-01-20,,0,Standard,0,,5.95,5+ Years
+459,Jillian Reed,Marketing,Male,Asian,Europe,117252,2017-04-27,,0,High,0,,4.68,3-5 Years
+460,Daniel Wilcox,Marketing,Female,Asian,Europe,96433,2017-07-12,,0,Standard,0,,4.47,3-5 Years
+461,Carlos Reid,Marketing,Male,Black,Europe,101600,2020-09-14,,0,High,0,,1.3,1-3 Years
+462,Erika Baldwin,Marketing,Male,Asian,Asia,82405,2016-02-15,,0,High,0,,5.88,5+ Years
+463,Julie Li,Marketing,Female,Other,Europe,84840,2018-09-20,,0,Standard,0,,3.28,3-5 Years
+464,Adam Daniel,Marketing,Female,Black,Asia,78839,2021-04-25,,0,Standard,0,,0.68,0-1 Years
+465,Krystal Clark,Marketing,Male,Other,Asia,73725,2019-10-18,,0,Standard,0,,2.21,1-3 Years
+466,Marissa Long,Marketing,Male,Other,North America,100846,2017-11-07,,0,Standard,0,,4.15,3-5 Years
+467,Taylor Patel,Marketing,Female,Black,Europe,66132,2018-11-12,,0,Standard,0,,3.14,3-5 Years
+468,Andres Rowland,Marketing,Male,Asian,Europe,79100,2019-11-10,,0,High,0,,2.14,1-3 Years
+469,Kim Arnold,Marketing,Female,Black,North America,102776,2018-02-10,,0,Standard,0,,3.89,3-5 Years
+470,Linda Harris,Marketing,Female,Black,Asia,42994,2019-07-30,,0,Standard,0,,2.42,1-3 Years
+471,Danielle Saunders,Marketing,Female,Asian,South America,80044,2016-07-10,,0,Standard,0,,5.48,5+ Years
+472,Aaron Shelton,Marketing,Female,Black,South America,89460,2016-05-09,2021-12-20,1,Standard,0,Work-Life Balance,5.62,5+ Years
+473,Lacey Gonzalez,Marketing,Male,Black,Asia,63842,2018-01-10,,0,High,0,,3.98,3-5 Years
+474,Lauren Ramirez,Marketing,Female,Black,Asia,80272,2019-04-04,,0,Standard,0,,2.75,1-3 Years
+475,Yvonne Miles,Marketing,Female,Asian,South America,112829,2020-06-14,2021-12-05,1,Standard,0,Salary,1.48,1-3 Years
+476,Steven Hayden,Marketing,Male,Asian,North America,64022,2019-01-10,,0,Standard,0,,2.98,1-3 Years
+477,Amy Fitzgerald,Marketing,Female,Other,Asia,70481,2017-07-03,,0,Standard,0,,4.5,3-5 Years
+478,James Bean,Marketing,Female,Asian,South America,53939,2017-04-17,2021-10-03,1,Standard,0,Better Opportunity,4.47,3-5 Years
+479,Laura Conley,Marketing,Female,Other,South America,69193,2020-03-15,,0,High,0,,1.8,1-3 Years
+480,Anne Larson,Marketing,Male,Other,Europe,107868,2020-05-18,2021-06-04,1,Standard,0,Management Issues,1.05,1-3 Years
+481,Anthony Rivera,Marketing,Male,Black,North America,74594,2018-01-22,,0,Standard,0,,3.94,3-5 Years
+482,Danielle Sanders,Marketing,Female,Asian,North America,48225,2020-08-28,,0,Standard,0,,1.34,1-3 Years
+483,Michelle Rivera,Marketing,Female,Asian,South America,84701,2018-09-17,,0,High,0,,3.29,3-5 Years
+484,Stephanie Coffey,Marketing,Male,Asian,Europe,104966,2017-08-25,,0,Standard,0,,4.35,3-5 Years
+485,Carl Johnson,Marketing,Male,Other,Asia,76535,2018-07-04,,0,Standard,0,,3.5,3-5 Years
+486,Danielle Harrison,Marketing,Female,Asian,South America,79399,2018-05-29,2021-12-24,1,Standard,0,Management Issues,3.58,3-5 Years
+487,Leah Miller,Marketing,Female,Asian,Europe,104136,2019-10-03,,0,Standard,0,,2.25,1-3 Years
+488,Meghan Anderson,Marketing,Male,Black,North America,72569,2018-02-20,,0,Standard,0,,3.86,3-5 Years
+489,Tyler Johnson,Marketing,Female,Black,North America,102519,2019-06-29,,0,Standard,0,,2.51,1-3 Years
+490,Michelle Baker,Marketing,Male,Asian,Europe,95272,2020-10-21,,0,High,0,,1.19,1-3 Years
+491,Mario Taylor,Marketing,Female,Black,Europe,58272,2018-04-12,,0,Standard,0,,3.72,3-5 Years
+492,Ashley Curtis,Marketing,Female,Black,Asia,86504,2018-01-20,,0,Standard,0,,3.95,3-5 Years
+493,Julie Newman,Marketing,Male,Black,Asia,98836,2019-08-11,,0,Standard,0,,2.39,1-3 Years
+494,Cynthia Huffman,Marketing,Female,Asian,South America,115549,2016-03-15,,0,Standard,0,,5.8,5+ Years
+495,Robin Vaughn,Marketing,Female,Asian,North America,51852,2018-01-12,,0,Standard,0,,3.97,3-5 Years
+496,Thomas Erickson,Marketing,Female,Other,Europe,94312,2021-06-27,,0,Standard,0,,0.51,0-1 Years
+497,Selena Williams,Marketing,Male,Other,North America,65977,2016-02-15,,0,Standard,0,,5.88,5+ Years
+498,Casey Robinson,Marketing,Male,Asian,North America,93512,2017-08-02,,0,Standard,0,,4.42,3-5 Years
+499,Brianna Williams,Marketing,Male,Asian,Asia,56933,2018-09-03,,0,Standard,0,,3.33,3-5 Years
+500,Eric Hall,Marketing,Male,Asian,South America,60424,2016-07-19,,0,Standard,0,,5.45,5+ Years
+501,Brianna Klein,Marketing,Female,Asian,Europe,58899,2017-11-11,,0,High,0,,4.14,3-5 Years
+502,Adrian Buck,Marketing,Female,Other,Europe,117947,2016-08-25,,0,Standard,0,,5.35,5+ Years
+503,Keith Anderson,Marketing,Male,Asian,South America,90350,2019-12-17,,0,High,0,,2.04,1-3 Years
+504,Debra Haynes,Marketing,Male,Other,South America,62118,2017-12-25,,0,Standard,0,,4.02,3-5 Years
+505,Jay Berry,Marketing,Male,Asian,Asia,101331,2020-01-11,,0,Standard,0,,1.97,1-3 Years
+506,Andrew Nunez,Marketing,Male,Other,South America,55378,2019-08-03,,0,High,0,,2.41,1-3 Years
+507,Rebecca Tucker,Marketing,Male,Asian,Europe,80433,2017-01-31,,0,Standard,0,,4.92,3-5 Years
+508,Justin Jones,Marketing,Male,Asian,North America,74252,2016-04-17,,0,Standard,0,,5.71,5+ Years
+509,David Cook,Marketing,Female,Black,South America,106110,2018-02-03,,0,High,0,,3.91,3-5 Years
+510,Renee Hayes,Marketing,Male,Black,North America,65382,2020-05-09,,0,High,0,,1.65,1-3 Years
+511,Kimberly Hudson,Marketing,Male,Black,South America,73614,2020-08-28,,0,Standard,0,,1.34,1-3 Years
+512,Jennifer Davis,Marketing,Male,Black,South America,69699,2020-07-06,,0,Standard,0,,1.49,1-3 Years
+513,Donna Martinez,Marketing,Male,Asian,Asia,92233,2020-01-27,,0,Standard,0,,1.93,1-3 Years
+514,Denise Weaver,Marketing,Female,Other,South America,107151,2017-04-15,2021-08-15,1,Standard,0,Management Issues,4.34,3-5 Years
+515,Kristen Chavez,Marketing,Male,Other,South America,61612,2021-01-02,,0,Standard,0,,0.99,0-1 Years
+516,Christopher Silva,Marketing,Male,Other,North America,58572,2019-04-02,,0,High,0,,2.75,1-3 Years
+517,Brian Sanchez,Marketing,Male,Asian,South America,96905,2019-09-25,,0,High,0,,2.27,1-3 Years
+518,Barbara Lawrence,Marketing,Male,Asian,South America,74107,2020-04-16,,0,High,0,,1.71,1-3 Years
+519,Tanya Robinson,Marketing,Male,Asian,Asia,43103,2019-06-16,2021-11-05,1,Standard,0,Better Opportunity,2.39,1-3 Years
+520,Larry Miller,Marketing,Male,Asian,South America,63044,2020-08-16,,0,Standard,0,,1.38,1-3 Years
+521,Carrie Brooks,Marketing,Female,Other,North America,74820,2020-02-15,,0,Standard,0,,1.88,1-3 Years
+522,Stuart Ryan,Marketing,Female,Asian,Asia,62134,2020-07-04,,0,High,0,,1.49,1-3 Years
+523,Charles Burch DVM,Marketing,Female,Black,Asia,73054,2018-12-08,,0,High,0,,3.07,3-5 Years
+524,Ryan White,Marketing,Male,Other,South America,119652,2016-08-29,,0,Standard,0,,5.34,5+ Years
+525,Blake Todd,Marketing,Male,Asian,Asia,78272,2017-07-13,,0,Standard,0,,4.47,3-5 Years
+526,Timothy Frazier,Marketing,Female,Asian,Europe,40014,2017-07-26,,0,Standard,0,,4.44,3-5 Years
+527,Theresa Pierce,Marketing,Male,Asian,Europe,111308,2017-02-02,,0,Standard,0,,4.91,3-5 Years
+528,Daniel Mann,Marketing,Female,Black,Asia,80352,2017-08-15,,0,Standard,0,,4.38,3-5 Years
+529,Erika Strickland,Marketing,Female,Other,North America,96156,2020-06-29,,0,High,0,,1.51,1-3 Years
+530,Lisa Allen,Marketing,Female,Asian,Asia,75715,2017-01-28,2021-07-08,1,High,1,Management Issues,4.44,3-5 Years
+531,Haley Gutierrez,Marketing,Female,Asian,Europe,114307,2019-01-22,2021-08-07,1,High,1,Better Opportunity,2.54,1-3 Years
+532,Peggy Hoover,Marketing,Male,Asian,Europe,52883,2016-01-23,,0,Standard,0,,5.94,5+ Years
+533,Michelle Stone,Marketing,Female,Black,North America,117915,2017-10-20,,0,Standard,0,,4.2,3-5 Years
+534,Stephanie Lewis,Marketing,Male,Black,South America,109233,2017-09-09,,0,Standard,0,,4.31,3-5 Years
+535,Kayla Parsons,Marketing,Male,Black,South America,102739,2019-01-09,,0,Standard,0,,2.98,1-3 Years
+536,Matthew Tucker,Marketing,Female,Other,South America,105565,2018-08-04,2021-11-23,1,Standard,0,Better Opportunity,3.31,3-5 Years
+537,Marissa Silva,Marketing,Male,Black,Europe,62685,2018-09-14,,0,Standard,0,,3.3,3-5 Years
+538,Morgan Holmes,Marketing,Male,Black,North America,92393,2018-07-12,,0,Standard,0,,3.47,3-5 Years
+539,Danielle Jackson MD,Marketing,Male,Asian,Asia,91254,2020-11-03,2021-09-22,1,High,1,Better Opportunity,0.88,0-1 Years
+540,Natalie Lawson,Marketing,Female,Asian,Asia,93919,2020-07-02,,0,Standard,0,,1.5,1-3 Years
+541,Christopher Short,Marketing,Male,Black,Europe,95220,2016-09-12,,0,Standard,0,,5.3,5+ Years
+542,Billy Norton,Marketing,Female,Other,South America,88915,2016-08-14,,0,Standard,0,,5.38,5+ Years
+543,Jonathan Griffin,Marketing,Female,Other,South America,97190,2017-09-25,,0,Standard,0,,4.27,3-5 Years
+544,Erika Martin,Marketing,Male,Asian,North America,111741,2017-04-14,,0,Standard,0,,4.72,3-5 Years
+545,Christopher Singh,Marketing,Male,Black,Europe,61475,2018-10-07,2021-06-24,1,Standard,0,Better Opportunity,2.72,1-3 Years
+546,Vicki Jones,Marketing,Female,Other,North America,70489,2021-02-07,,0,Standard,0,,0.9,0-1 Years
+547,Bianca Dawson,Marketing,Female,Asian,South America,81025,2020-12-08,,0,Standard,0,,1.06,1-3 Years
+548,Kimberly Andrews,Marketing,Female,Black,Asia,77331,2016-05-09,,0,Standard,0,,5.65,5+ Years
+549,Alexa Best,Marketing,Male,Black,North America,65013,2019-03-14,,0,Standard,0,,2.8,1-3 Years
+550,Sabrina Oliver,Marketing,Male,Other,Asia,113179,2017-06-12,,0,Standard,0,,4.56,3-5 Years
+551,Michael Hicks,Marketing,Female,Other,North America,118001,2018-02-02,,0,Standard,0,,3.91,3-5 Years
+552,Kelsey Webb,Marketing,Female,Other,North America,80674,2016-05-23,,0,Standard,0,,5.61,5+ Years
+553,Jared Martinez,Marketing,Male,Black,Europe,77503,2020-09-17,,0,Standard,0,,1.29,1-3 Years
+554,Timothy Powell,Marketing,Female,Black,South America,74584,2019-09-14,2021-07-27,1,Standard,0,Better Opportunity,1.87,1-3 Years
+555,Nicole Hawkins,Marketing,Male,Other,South America,113982,2019-07-31,,0,Standard,0,,2.42,1-3 Years
+556,Nicole Mendoza,Marketing,Male,Asian,Asia,51237,2021-07-20,,0,Standard,0,,0.45,0-1 Years
+557,Anita Lawrence,Marketing,Male,Other,Asia,80921,2017-08-11,,0,High,0,,4.39,3-5 Years
+558,Christopher Willis,Marketing,Male,Asian,North America,102013,2016-06-01,,0,Standard,0,,5.59,5+ Years
+559,Evelyn Russell,Marketing,Male,Other,South America,91377,2018-07-10,,0,Standard,0,,3.48,3-5 Years
+560,Nicole Sellers,Marketing,Male,Black,South America,61002,2017-03-08,,0,Standard,0,,4.82,3-5 Years
+561,Joshua Romero,Marketing,Female,Black,North America,63598,2021-03-14,,0,Standard,0,,0.8,0-1 Years
+562,Lindsey Wilson,Marketing,Male,Other,South America,50078,2018-10-07,,0,Standard,0,,3.24,3-5 Years
+563,Michael Jenkins,Marketing,Male,Black,South America,61536,2018-01-17,2021-12-11,1,Standard,0,Work-Life Balance,3.9,3-5 Years
+564,Joshua James,Marketing,Male,Other,South America,65912,2020-12-25,,0,Standard,0,,1.02,1-3 Years
+565,Aaron Sanchez,Marketing,Male,Asian,Asia,75940,2019-11-11,,0,High,0,,2.14,1-3 Years
+566,Andrew Stokes,Marketing,Female,Other,South America,93127,2020-08-14,2021-11-10,1,High,1,Work-Life Balance,1.24,1-3 Years
+567,Sarah Williams,Marketing,Male,Other,North America,81324,2017-03-24,,0,High,0,,4.78,3-5 Years
+568,Christine Adams,Marketing,Male,Other,Europe,87019,2020-09-10,,0,Standard,0,,1.31,1-3 Years
+569,Mrs. Jamie Grimes,Marketing,Female,Other,North America,62349,2019-09-03,,0,Standard,0,,2.33,1-3 Years
+570,Jean Mcdowell,Marketing,Male,Other,Europe,95926,2019-01-23,,0,Standard,0,,2.94,1-3 Years
+571,John Wright,Marketing,Male,Other,Europe,117417,2017-10-27,,0,Standard,0,,4.18,3-5 Years
+572,Katherine Cardenas,Marketing,Male,Other,Europe,79085,2020-04-03,,0,Standard,0,,1.75,1-3 Years
+573,Justin Hernandez,Marketing,Female,Black,Europe,88702,2020-03-12,,0,Standard,0,,1.81,1-3 Years
+574,Erin Roth,Marketing,Female,Black,North America,90328,2017-11-30,,0,Standard,0,,4.09,3-5 Years
+575,Jose Nelson,Marketing,Female,Black,Asia,109577,2016-07-16,,0,Standard,0,,5.46,5+ Years
+576,Shawn Thomas,Marketing,Female,Asian,Europe,95799,2016-03-29,,0,Standard,0,,5.76,5+ Years
+577,Linda Martinez,Marketing,Female,Other,North America,119562,2020-01-02,,0,Standard,0,,2.0,1-3 Years
+578,Sandy Martin,Marketing,Female,Asian,North America,56865,2019-01-22,,0,Standard,0,,2.94,1-3 Years
+579,Amber Santos,Marketing,Female,Black,North America,61462,2019-06-24,2021-06-12,1,High,1,Better Opportunity,1.97,1-3 Years
+580,James Mccarthy,Marketing,Female,Other,Europe,98970,2019-12-19,,0,Standard,0,,2.04,1-3 Years
+581,Jonathan Barber,Marketing,Female,Other,South America,66092,2018-11-04,,0,Standard,0,,3.16,3-5 Years
+582,Eric Kaiser,Marketing,Male,Other,North America,65799,2018-11-27,,0,Standard,0,,3.1,3-5 Years
+583,Michelle Harvey,Marketing,Male,Asian,Asia,101223,2017-06-10,,0,Standard,0,,4.56,3-5 Years
+584,Rhonda Howell,Marketing,Female,Other,Europe,79260,2017-11-06,,0,Standard,0,,4.15,3-5 Years
+585,Troy Morrison,Marketing,Female,Other,North America,53512,2020-04-26,,0,Standard,0,,1.68,1-3 Years
+586,Robert Hanson,Marketing,Male,Other,North America,53397,2016-07-05,,0,Standard,0,,5.49,5+ Years
+587,Chad Scott,Marketing,Male,Black,North America,63955,2019-03-15,,0,Standard,0,,2.8,1-3 Years
+588,George Williamson,Marketing,Female,Other,North America,101727,2016-09-20,,0,Standard,0,,5.28,5+ Years
+589,Jason Hall,Marketing,Female,Black,South America,119986,2020-07-13,,0,Standard,0,,1.47,1-3 Years
+590,Lauren Yu,Marketing,Male,Black,Europe,47456,2017-03-10,,0,Standard,0,,4.81,3-5 Years
+591,Glenda Mitchell,Marketing,Male,Asian,North America,75628,2019-08-24,,0,High,0,,2.36,1-3 Years
+592,Justin Durham,Marketing,Male,Other,Asia,103054,2021-05-16,,0,Standard,0,,0.63,0-1 Years
+593,Jason Williamson,Marketing,Male,Other,South America,117160,2017-09-29,,0,High,0,,4.26,3-5 Years
+594,Michael Lowery MD,Marketing,Female,Asian,Asia,85686,2021-03-08,2021-10-13,1,Standard,0,Better Opportunity,0.6,0-1 Years
+595,Michael Sanchez,Marketing,Male,Other,Europe,61657,2018-11-13,,0,Standard,0,,3.13,3-5 Years
+596,Charles Adams,Marketing,Male,Asian,South America,42576,2018-02-08,,0,Standard,0,,3.9,3-5 Years
+597,Michael Thornton,Marketing,Female,Other,North America,46555,2016-10-28,2021-11-08,1,High,1,Better Opportunity,5.03,5+ Years
+598,Michael Johnson,Marketing,Female,Asian,Europe,116532,2018-02-24,,0,Standard,0,,3.85,3-5 Years
+599,Christina Grimes,Marketing,Male,Other,North America,118776,2018-01-16,,0,Standard,0,,3.96,3-5 Years
+600,Karen Wallace,Marketing,Male,Asian,North America,71224,2017-12-27,,0,Standard,0,,4.01,3-5 Years
+601,Suzanne Ruiz,Marketing,Male,Black,North America,119663,2020-11-26,,0,Standard,0,,1.1,1-3 Years
+602,Thomas Davis,Marketing,Female,Asian,Europe,87979,2018-11-01,,0,Standard,0,,3.17,3-5 Years
+603,Michael Perez,Marketing,Female,Other,Asia,54335,2021-02-27,,0,Standard,0,,0.84,0-1 Years
+604,Marcus Greene,Marketing,Male,Black,Asia,114247,2018-11-27,,0,High,0,,3.1,3-5 Years
+605,Ruben Allen,Marketing,Female,Asian,North America,44256,2017-02-20,2021-08-15,1,Standard,0,Better Opportunity,4.48,3-5 Years
+606,Haley Le,Marketing,Male,Asian,South America,69043,2019-02-03,,0,Standard,0,,2.91,1-3 Years
+607,Jennifer Martinez MD,Marketing,Male,Black,North America,60596,2016-12-05,,0,High,0,,5.07,5+ Years
+608,Walter Thompson,Marketing,Male,Asian,North America,108641,2021-06-29,,0,Standard,0,,0.51,0-1 Years
+609,Christopher Carr,Marketing,Male,Asian,South America,90932,2021-07-27,2021-06-27,1,High,1,Management Issues,-0.08,0-1 Years
+610,Christopher Little,Marketing,Female,Asian,South America,46948,2017-08-08,,0,High,0,,4.4,3-5 Years
+611,Robin Wright,Marketing,Male,Black,Asia,70737,2019-04-02,2021-06-20,1,High,1,Work-Life Balance,2.22,1-3 Years
+612,Karen Castro,Marketing,Female,Black,South America,94010,2020-06-23,,0,Standard,0,,1.52,1-3 Years
+613,Sarah Delgado,Marketing,Male,Black,Asia,75158,2017-11-13,2021-06-24,1,Standard,0,Work-Life Balance,3.61,3-5 Years
+614,Marc Hunt,Marketing,Male,Asian,South America,83475,2018-11-17,,0,High,0,,3.12,3-5 Years
+615,Kyle Obrien,Marketing,Male,Asian,North America,41541,2016-11-13,,0,Standard,0,,5.13,5+ Years
+616,Janice Rice,Marketing,Female,Black,Europe,101881,2017-12-16,2021-12-15,1,High,1,Better Opportunity,4.0,3-5 Years
+617,Ms. Jacqueline Miller,Marketing,Female,Asian,South America,73338,2020-12-01,,0,High,0,,1.08,1-3 Years
+618,Amy Donovan,Marketing,Female,Other,South America,76858,2016-12-12,,0,Standard,0,,5.05,5+ Years
+619,Ian Harris,Marketing,Male,Asian,Europe,53123,2020-08-10,,0,Standard,0,,1.39,1-3 Years
+620,Marc Hall,Marketing,Male,Black,Asia,90557,2020-04-30,,0,Standard,0,,1.67,1-3 Years
+621,Benjamin Rodriguez,Marketing,Male,Black,Asia,104451,2019-12-10,,0,Standard,0,,2.06,1-3 Years
+622,Wendy Garcia,Marketing,Male,Asian,North America,41173,2017-08-14,,0,High,0,,4.38,3-5 Years
+623,Patrick Lynch,Marketing,Female,Black,Europe,86273,2019-04-12,2021-07-26,1,Standard,0,Salary,2.29,1-3 Years
+624,Timothy Buchanan,Marketing,Female,Other,South America,111810,2016-04-08,,0,Standard,0,,5.73,5+ Years
+625,Sheri Flores,Marketing,Male,Asian,North America,115064,2019-05-07,2021-12-29,1,Standard,0,Work-Life Balance,2.65,1-3 Years
+626,Tiffany Bailey,Marketing,Female,Other,South America,73682,2017-07-18,,0,Standard,0,,4.46,3-5 Years
+627,Kenneth Thomas,Marketing,Female,Asian,North America,86182,2017-10-15,,0,Standard,0,,4.21,3-5 Years
+628,Mary Porter,Marketing,Male,Asian,Asia,108825,2020-12-31,,0,Standard,0,,1.0,0-1 Years
+629,Linda Palmer,Marketing,Male,Black,North America,61548,2020-01-05,,0,Standard,0,,1.99,1-3 Years
+630,Denise Andrade,Marketing,Male,Asian,Europe,66089,2020-04-29,,0,Standard,0,,1.67,1-3 Years
+631,Melissa Cook,Marketing,Female,Black,North America,96709,2018-08-14,,0,Standard,0,,3.38,3-5 Years
+632,James Porter,Marketing,Female,Other,North America,116682,2019-04-25,,0,High,0,,2.69,1-3 Years
+633,Patrick Cohen,Marketing,Male,Asian,Asia,98593,2017-07-24,2021-12-19,1,Standard,0,Management Issues,4.41,3-5 Years
+634,April Glass,Marketing,Male,Asian,Europe,90225,2019-11-21,,0,Standard,0,,2.11,1-3 Years
+635,Danny Merritt,Marketing,Male,Other,South America,50251,2017-01-19,2021-09-24,1,Standard,0,Better Opportunity,4.68,3-5 Years
+636,Katie Garcia DVM,Marketing,Female,Asian,Europe,98102,2020-07-22,,0,Standard,0,,1.44,1-3 Years
+637,Austin Thomas,Marketing,Female,Other,South America,63293,2020-09-14,,0,Standard,0,,1.3,1-3 Years
+638,Kathleen Jefferson,Marketing,Male,Black,North America,103935,2016-08-18,,0,Standard,0,,5.37,5+ Years
+639,Larry Ramos,Marketing,Male,Black,Asia,63000,2016-05-03,,0,Standard,0,,5.67,5+ Years
+640,Morgan Vargas,Marketing,Male,Other,North America,43589,2018-12-15,,0,High,0,,3.05,3-5 Years
+641,Valerie Jones,Marketing,Male,Asian,South America,67788,2017-03-18,2021-09-25,1,Standard,0,Better Opportunity,4.53,3-5 Years
+642,Melissa Oconnor,Marketing,Female,Asian,South America,86000,2020-07-03,,0,Standard,0,,1.5,1-3 Years
+643,Ebony Moore,Marketing,Female,Other,Asia,47211,2019-03-03,,0,Standard,0,,2.83,1-3 Years
+644,Gene Baxter,Marketing,Male,Black,Europe,69226,2020-08-20,,0,High,0,,1.36,1-3 Years
+645,Laura Perry,Marketing,Male,Other,North America,54660,2016-11-06,,0,High,0,,5.15,5+ Years
+646,Ashley Mcdonald,Marketing,Female,Black,South America,54727,2018-01-30,,0,Standard,0,,3.92,3-5 Years
+647,Melissa Oliver,Marketing,Female,Asian,Asia,91776,2016-04-15,,0,High,0,,5.72,5+ Years
+648,Alyssa Richards,Marketing,Female,Asian,Europe,80538,2018-04-02,,0,Standard,0,,3.75,3-5 Years
+649,Ariel Gordon,Marketing,Male,Black,Europe,55040,2021-02-07,,0,Standard,0,,0.9,0-1 Years
+650,Dwayne Hamilton,Marketing,Male,Other,South America,62707,2018-06-03,,0,Standard,0,,3.58,3-5 Years
+651,William Taylor,Marketing,Female,Black,North America,82144,2016-12-16,,0,Standard,0,,5.04,5+ Years
+652,Michelle Davis,Marketing,Male,Other,Asia,62742,2016-12-25,,0,Standard,0,,5.02,5+ Years
+653,Katherine Owens,Marketing,Male,Asian,South America,69834,2020-11-01,2021-09-30,1,High,1,Better Opportunity,0.91,0-1 Years
+654,James Bailey,Marketing,Female,Asian,South America,110482,2020-07-26,,0,High,0,,1.43,1-3 Years
+655,Alexander Johnson,Marketing,Female,Asian,North America,94599,2020-04-18,,0,Standard,0,,1.7,1-3 Years
+656,Stephen Hawkins,Marketing,Male,Other,Europe,59638,2016-09-19,,0,Standard,0,,5.28,5+ Years
+657,Angela Johnson,Marketing,Female,Other,Europe,72554,2017-06-16,2021-12-27,1,High,1,Better Opportunity,4.53,3-5 Years
+658,Ralph Mcintyre,Marketing,Female,Black,Asia,69719,2019-10-21,,0,Standard,0,,2.2,1-3 Years
+659,Shelley Ford,Marketing,Female,Black,South America,109734,2018-02-15,,0,Standard,0,,3.88,3-5 Years
+660,Scott Lara,Marketing,Female,Black,Asia,108878,2021-01-26,,0,Standard,0,,0.93,0-1 Years
+661,Cassandra Smith,Marketing,Male,Other,North America,75007,2020-02-02,,0,Standard,0,,1.91,1-3 Years
+662,Anthony Simpson,Marketing,Male,Asian,Europe,109927,2017-02-22,,0,High,0,,4.86,3-5 Years
+663,Alicia Harris,Marketing,Male,Other,Europe,84041,2017-10-11,,0,Standard,0,,4.22,3-5 Years
+664,Martin Goodman,Marketing,Male,Other,Asia,73445,2020-06-04,,0,Standard,0,,1.58,1-3 Years
+665,Sherri Castaneda,Marketing,Male,Other,South America,84078,2019-02-07,,0,Standard,0,,2.9,1-3 Years
+666,Justin Parker,Marketing,Male,Asian,South America,66643,2017-12-18,,0,Standard,0,,4.04,3-5 Years
+667,David Thomas,Marketing,Male,Asian,Asia,83924,2019-09-16,,0,Standard,0,,2.29,1-3 Years
+668,Thomas Johnson,Marketing,Male,Black,Europe,47003,2020-09-01,,0,High,0,,1.33,1-3 Years
+669,Renee Johnson,Marketing,Female,Asian,North America,58425,2017-03-16,,0,Standard,0,,4.8,3-5 Years
+670,Timothy Wood,Marketing,Male,Asian,North America,116582,2016-06-14,,0,Standard,0,,5.55,5+ Years
+671,Jake Lynch,Marketing,Female,Asian,Asia,115123,2017-03-02,2021-10-29,1,Standard,0,Salary,4.66,3-5 Years
+672,Rachel Caldwell,Marketing,Female,Other,North America,66871,2021-03-09,,0,Standard,0,,0.81,0-1 Years
+673,Jo Gutierrez,Marketing,Male,Other,Europe,42803,2020-07-17,,0,High,0,,1.46,1-3 Years
+674,Rachel Hardin,Marketing,Female,Asian,Asia,73959,2017-10-12,,0,Standard,0,,4.22,3-5 Years
+675,Alice Mclaughlin,Marketing,Male,Other,North America,52407,2017-07-22,,0,High,0,,4.45,3-5 Years
+676,Elizabeth Fields,Marketing,Male,Black,North America,80085,2018-11-29,,0,Standard,0,,3.09,3-5 Years
+677,Victoria Weaver,Marketing,Female,Asian,South America,117716,2017-09-07,2021-10-25,1,High,1,Better Opportunity,4.13,3-5 Years
+678,Scott Mercado,Marketing,Male,Other,South America,111560,2016-05-27,,0,High,0,,5.6,5+ Years
+679,Lauren Johnson,Marketing,Female,Black,Europe,62611,2019-07-01,,0,Standard,0,,2.5,1-3 Years
+680,Dr. Stacey Kerr,Marketing,Female,Other,North America,75020,2017-10-04,,0,High,0,,4.24,3-5 Years
+681,Roger Frank,Marketing,Male,Other,North America,92962,2017-09-26,,0,Standard,0,,4.27,3-5 Years
+682,Amber Graves,Marketing,Female,Black,Asia,91755,2017-01-06,,0,Standard,0,,4.99,3-5 Years
+683,Jeffrey Goodwin,Marketing,Female,Other,Europe,81201,2020-07-09,,0,Standard,0,,1.48,1-3 Years
+684,Lawrence Park,Marketing,Male,Black,South America,79336,2019-03-18,,0,Standard,0,,2.79,1-3 Years
+685,Erin Wolf,Marketing,Female,Black,North America,112054,2020-02-16,,0,Standard,0,,1.87,1-3 Years
+686,Stephen Griffin,Marketing,Female,Other,Asia,82365,2016-08-13,,0,Standard,0,,5.39,5+ Years
+687,Timothy Callahan,Marketing,Female,Other,South America,100385,2020-03-13,,0,Standard,0,,1.8,1-3 Years
+688,Patricia Gomez,Marketing,Female,Asian,South America,67734,2019-01-13,2021-06-09,1,Standard,0,Better Opportunity,2.41,1-3 Years
+689,Tracy Bryant,Marketing,Male,Black,Europe,84198,2016-02-29,,0,Standard,0,,5.84,5+ Years
+690,Monica Brown,Marketing,Male,Other,South America,81429,2021-02-22,2021-11-05,1,Standard,0,Better Opportunity,0.7,0-1 Years
+691,Dustin Hill,Marketing,Male,Other,Asia,68666,2021-03-08,,0,Standard,0,,0.82,0-1 Years
+692,Nancy Mahoney,Marketing,Female,Black,Asia,80090,2020-10-03,,0,Standard,0,,1.24,1-3 Years
+693,Taylor Gibson,Marketing,Female,Black,Europe,115120,2021-01-24,,0,Standard,0,,0.93,0-1 Years
+694,Tammy Evans,Marketing,Female,Asian,South America,63936,2018-05-20,,0,Standard,0,,3.62,3-5 Years
+695,Shannon West,Marketing,Male,Other,Europe,51364,2016-02-01,,0,Standard,0,,5.92,5+ Years
+696,Paul Reyes,Marketing,Female,Other,Asia,109297,2019-09-07,,0,Standard,0,,2.32,1-3 Years
+697,Melissa Chambers,Marketing,Male,Asian,North America,110858,2021-04-11,,0,High,0,,0.72,0-1 Years
+698,Ian Stevens,Marketing,Male,Other,Asia,80530,2016-11-28,,0,Standard,0,,5.09,5+ Years
+699,Charles Irwin,Marketing,Female,Black,South America,90849,2019-12-08,,0,Standard,0,,2.07,1-3 Years
+700,Maurice Beck,Marketing,Female,Asian,Asia,101394,2018-12-13,,0,High,0,,3.05,3-5 Years
+701,Luis Jones,Marketing,Male,Other,North America,81981,2016-09-08,,0,High,0,,5.32,5+ Years
+702,Julia Beltran,Marketing,Female,Black,Asia,49181,2020-09-23,,0,High,0,,1.27,1-3 Years
+703,Andrew Watson,Marketing,Female,Other,Europe,117709,2019-12-28,2021-12-13,1,High,1,Better Opportunity,1.96,1-3 Years
+704,Alan Johnson,Marketing,Female,Other,South America,72355,2020-01-28,,0,Standard,0,,1.93,1-3 Years
+705,Patricia Romero,Marketing,Male,Asian,North America,40142,2020-01-14,,0,Standard,0,,1.96,1-3 Years
+706,Johnny Dixon,Marketing,Male,Other,North America,119049,2018-07-05,,0,Standard,0,,3.49,3-5 Years
+707,Richard Dickerson,Marketing,Female,Other,North America,80617,2017-04-27,,0,Standard,0,,4.68,3-5 Years
+708,Mr. Richard Mooney Jr.,Marketing,Female,Asian,Europe,74841,2019-04-26,,0,High,0,,2.68,1-3 Years
+709,Megan Hester,Marketing,Male,Asian,Europe,52233,2018-08-04,,0,Standard,0,,3.41,3-5 Years
+710,Ronnie Cohen,Marketing,Female,Black,South America,109186,2019-12-11,,0,Standard,0,,2.06,1-3 Years
+711,Christopher Martin,Marketing,Female,Other,Europe,93478,2019-04-03,2021-09-02,1,High,1,Better Opportunity,2.42,1-3 Years
+712,Sara Schmidt,Marketing,Female,Asian,Europe,48794,2020-08-16,,0,Standard,0,,1.38,1-3 Years
+713,Brandon Ortiz,Marketing,Female,Black,South America,63978,2020-04-09,,0,Standard,0,,1.73,1-3 Years
+714,Andrea Miller DDS,Marketing,Male,Other,North America,99386,2017-02-28,2021-09-17,1,Standard,0,Salary,4.55,3-5 Years
+715,Linda Trujillo,Marketing,Female,Asian,Asia,57039,2017-09-23,,0,Standard,0,,4.27,3-5 Years
+716,Christine Parker,Marketing,Male,Other,Europe,71582,2018-09-11,,0,Standard,0,,3.31,3-5 Years
+717,Kevin Pierce,Marketing,Female,Asian,North America,117780,2020-11-30,,0,High,0,,1.08,1-3 Years
+718,Alexander Martinez,Marketing,Male,Black,South America,95969,2020-10-20,,0,Standard,0,,1.2,1-3 Years
+719,David White,Marketing,Male,Black,Asia,74299,2019-08-02,,0,High,0,,2.42,1-3 Years
+720,John Gutierrez,Marketing,Female,Black,South America,89391,2017-04-25,,0,Standard,0,,4.69,3-5 Years
+721,Edward Ramos,Marketing,Male,Black,Asia,103318,2019-12-17,,0,Standard,0,,2.04,1-3 Years
+722,Jennifer Wolf,Marketing,Male,Black,North America,79646,2019-01-22,2021-07-26,1,Standard,0,Better Opportunity,2.51,1-3 Years
+723,Samantha Reed,Marketing,Male,Black,South America,100815,2017-04-06,,0,Standard,0,,4.74,3-5 Years
+724,Traci Lamb,Marketing,Male,Asian,North America,55811,2017-12-07,,0,Standard,0,,4.07,3-5 Years
+725,Ms. Leslie Lewis,Marketing,Male,Other,Europe,110414,2016-03-23,,0,Standard,0,,5.78,5+ Years
+726,Heather Serrano,Marketing,Male,Asian,North America,101356,2017-05-10,,0,Standard,0,,4.65,3-5 Years
+727,Dana Porter,Marketing,Female,Black,Europe,50103,2016-12-19,,0,High,0,,5.04,5+ Years
+728,Ashley Reyes,Marketing,Female,Asian,North America,74870,2021-01-14,,0,High,0,,0.96,0-1 Years
+729,Patrick Leblanc,Marketing,Male,Black,South America,95243,2017-04-18,,0,Standard,0,,4.71,3-5 Years
+730,Andrea Daniel,Marketing,Female,Asian,Asia,40341,2020-11-18,,0,Standard,0,,1.12,1-3 Years
+731,William Arnold,Marketing,Male,Asian,South America,49610,2018-10-02,,0,Standard,0,,3.25,3-5 Years
+732,Mary Stewart,Marketing,Female,Asian,South America,118674,2016-09-25,,0,High,0,,5.27,5+ Years
+733,Shawn Walker,Marketing,Female,Black,South America,70728,2018-10-06,2021-12-25,1,Standard,0,Management Issues,3.22,3-5 Years
+734,Katherine Allen,Marketing,Male,Black,Asia,73592,2020-04-10,,0,Standard,0,,1.73,1-3 Years
+735,Vanessa Hunter,Marketing,Female,Other,South America,58189,2019-01-19,,0,Standard,0,,2.95,1-3 Years
+736,William Rogers,Marketing,Male,Asian,North America,95278,2020-06-29,,0,Standard,0,,1.51,1-3 Years
+737,Samantha Wright,Marketing,Male,Other,Asia,112375,2019-03-02,,0,Standard,0,,2.84,1-3 Years
+738,Robert Hartman,Marketing,Male,Asian,South America,82894,2019-01-25,,0,High,0,,2.93,1-3 Years
+739,Shannon Moore,Marketing,Male,Asian,South America,47970,2019-11-25,2021-09-27,1,Standard,0,Work-Life Balance,1.84,1-3 Years
+740,Matthew Martinez,Marketing,Female,Asian,Europe,65766,2017-10-26,,0,Standard,0,,4.18,3-5 Years
+741,Susan Nichols,Marketing,Male,Asian,South America,68782,2020-04-03,,0,High,0,,1.75,1-3 Years
+742,Charles Nolan,Marketing,Female,Asian,North America,110568,2019-12-05,2021-06-29,1,High,1,Management Issues,1.57,1-3 Years
+743,Bonnie Wilkins,Marketing,Female,Asian,Asia,71361,2017-03-15,2021-06-10,1,Standard,0,Work-Life Balance,4.24,3-5 Years
+744,Brandon Stewart,Marketing,Male,Asian,North America,40010,2020-09-09,2021-09-15,1,High,1,Better Opportunity,1.02,1-3 Years
+745,Kathleen Krause,Marketing,Male,Other,South America,52615,2016-11-17,,0,Standard,0,,5.12,5+ Years
+746,Brittney Powell,Marketing,Male,Asian,South America,87780,2018-11-27,,0,High,0,,3.1,3-5 Years
+747,Elizabeth Perez,Marketing,Female,Other,North America,44065,2017-08-12,2021-11-15,1,Standard,0,Better Opportunity,4.26,3-5 Years
+748,Megan Davis,Marketing,Male,Other,South America,100212,2016-07-10,,0,Standard,0,,5.48,5+ Years
+749,Kimberly Petersen,Marketing,Male,Asian,North America,101679,2016-01-01,,0,Standard,0,,6.0,5+ Years
+750,Connie Hensley,Marketing,Female,Asian,Asia,53018,2020-09-04,2021-08-24,1,Standard,0,Work-Life Balance,0.97,0-1 Years
+751,Dana Powell,HR,Male,Other,Europe,53280,2017-07-18,,0,Standard,0,,4.46,3-5 Years
+752,Michael Coffey,HR,Female,Asian,South America,119243,2019-02-26,,0,High,0,,2.85,1-3 Years
+753,Gail Weeks,HR,Male,Asian,North America,107376,2020-12-17,,0,Standard,0,,1.04,1-3 Years
+754,Richard Riley,HR,Male,Asian,South America,60806,2020-03-21,,0,Standard,0,,1.78,1-3 Years
+755,Christopher Clark,HR,Female,Other,Asia,41655,2018-01-30,,0,Standard,0,,3.92,3-5 Years
+756,Brandon Reeves,HR,Male,Black,South America,72660,2020-05-12,,0,Standard,0,,1.64,1-3 Years
+757,Zachary Adams,HR,Male,Asian,Europe,56675,2016-06-15,,0,High,0,,5.55,5+ Years
+758,David Martinez,HR,Male,Asian,Europe,75642,2019-11-21,,0,Standard,0,,2.11,1-3 Years
+759,Nicole Baker,HR,Male,Other,North America,54395,2017-04-17,,0,Standard,0,,4.71,3-5 Years
+760,Tami Peters,HR,Female,Other,Asia,104360,2018-09-19,,0,Standard,0,,3.28,3-5 Years
+761,Christine Ortiz,HR,Male,Other,North America,63899,2017-04-12,,0,Standard,0,,4.72,3-5 Years
+762,Kimberly Christensen,HR,Female,Black,North America,84863,2019-05-22,,0,Standard,0,,2.61,1-3 Years
+763,George Torres,HR,Female,Asian,Asia,47705,2018-02-08,2021-12-07,1,Standard,0,Management Issues,3.83,3-5 Years
+764,Melissa Adams,HR,Female,Black,Asia,54680,2020-04-14,,0,Standard,0,,1.72,1-3 Years
+765,Kayla Shaffer,HR,Female,Asian,North America,47389,2019-02-13,2021-11-29,1,Standard,0,Management Issues,2.79,1-3 Years
+766,Jesus Garcia,HR,Male,Black,South America,56337,2016-09-12,,0,Standard,0,,5.3,5+ Years
+767,Thomas Valenzuela,HR,Male,Other,Europe,62682,2019-04-23,,0,High,0,,2.69,1-3 Years
+768,Virginia Hughes,HR,Male,Asian,South America,67493,2018-11-20,,0,Standard,0,,3.12,3-5 Years
+769,Amy Noble,HR,Female,Asian,Asia,95623,2020-03-29,,0,Standard,0,,1.76,1-3 Years
+770,Cody Herman,HR,Female,Black,South America,63795,2020-10-25,,0,Standard,0,,1.18,1-3 Years
+771,Jill Guerrero,HR,Female,Asian,Europe,66636,2017-09-03,2021-06-22,1,High,1,Work-Life Balance,3.8,3-5 Years
+772,Jeremy Thomas,HR,Female,Black,Europe,73903,2017-05-25,,0,Standard,0,,4.61,3-5 Years
+773,Michael Johnson,HR,Female,Other,South America,73434,2020-10-17,,0,Standard,0,,1.21,1-3 Years
+774,Alice Fleming,HR,Female,Other,Europe,75896,2019-02-13,,0,Standard,0,,2.88,1-3 Years
+775,Lori Harris,HR,Male,Other,Europe,88747,2020-07-01,,0,Standard,0,,1.5,1-3 Years
+776,Alex Marsh,HR,Male,Asian,North America,63019,2018-05-15,,0,Standard,0,,3.63,3-5 Years
+777,Jonathan Gilbert,HR,Male,Asian,South America,65119,2020-10-28,2021-10-03,1,High,1,Work-Life Balance,0.93,0-1 Years
+778,Jennifer Woods,HR,Female,Asian,Asia,101629,2020-03-03,,0,High,0,,1.83,1-3 Years
+779,Laura Hansen,HR,Female,Black,Europe,99672,2016-06-21,2021-10-24,1,Standard,0,Management Issues,5.35,5+ Years
+780,Susan Wilson,HR,Male,Black,Europe,62331,2017-11-15,,0,High,0,,4.13,3-5 Years
+781,Kenneth West,HR,Female,Other,Asia,61995,2020-12-18,,0,Standard,0,,1.04,1-3 Years
+782,Zachary Henderson,HR,Female,Black,Europe,48778,2017-10-25,,0,Standard,0,,4.19,3-5 Years
+783,Tami Lane,HR,Female,Black,North America,79152,2019-11-29,,0,High,0,,2.09,1-3 Years
+784,Brett Walker,HR,Female,Other,Europe,56416,2017-01-25,,0,Standard,0,,4.93,3-5 Years
+785,Michelle Rodriguez,HR,Female,Asian,Asia,111249,2018-08-14,,0,Standard,0,,3.38,3-5 Years
+786,Kendra Rodriguez,HR,Female,Asian,South America,54186,2020-09-04,,0,Standard,0,,1.32,1-3 Years
+787,Julia Savage,HR,Male,Black,Asia,108371,2020-02-26,,0,Standard,0,,1.85,1-3 Years
+788,Mr. Eric Decker,HR,Male,Black,Asia,117291,2019-08-12,,0,High,0,,2.39,1-3 Years
+789,Stacy Stewart,HR,Female,Asian,Europe,69075,2021-03-31,,0,Standard,0,,0.75,0-1 Years
+790,Joshua Hess,HR,Female,Black,South America,72454,2018-02-11,,0,High,0,,3.89,3-5 Years
+791,Sara Miller,HR,Female,Asian,South America,56159,2020-12-15,,0,Standard,0,,1.04,1-3 Years
+792,David Velez,HR,Male,Asian,Europe,41292,2021-01-18,,0,Standard,0,,0.95,0-1 Years
+793,Ronald Gonzales,HR,Female,Black,North America,78226,2019-05-17,,0,Standard,0,,2.63,1-3 Years
+794,Joshua Gonzalez MD,HR,Female,Asian,Europe,67566,2020-08-14,2021-08-06,1,High,1,Salary,0.98,0-1 Years
+795,Nicholas Peterson,HR,Female,Black,Asia,110927,2020-01-25,2021-06-11,1,High,1,Better Opportunity,1.38,1-3 Years
+796,Sharon Case DDS,HR,Male,Other,North America,76370,2016-09-26,,0,Standard,0,,5.27,5+ Years
+797,Andrew Hall,HR,Female,Black,South America,62048,2020-05-22,,0,Standard,0,,1.61,1-3 Years
+798,Justin Hardy,HR,Male,Other,Asia,109037,2018-11-18,,0,Standard,0,,3.12,3-5 Years
+799,Ashley Ramos,HR,Male,Asian,South America,50384,2019-10-18,,0,High,0,,2.21,1-3 Years
+800,Rebecca Peterson,HR,Female,Other,North America,115789,2018-01-05,,0,Standard,0,,3.99,3-5 Years
+801,Dennis Marshall,HR,Female,Asian,Europe,55799,2017-12-23,,0,Standard,0,,4.02,3-5 Years
+802,Michael Lee,HR,Male,Other,South America,46170,2018-01-30,,0,Standard,0,,3.92,3-5 Years
+803,Damon Sparks,HR,Female,Black,Europe,101524,2019-05-10,2021-06-12,1,Standard,0,Management Issues,2.09,1-3 Years
+804,Manuel Schmidt,HR,Male,Black,Europe,109866,2019-03-06,,0,Standard,0,,2.82,1-3 Years
+805,Jenna Eaton,HR,Female,Asian,South America,74437,2018-01-10,2021-06-24,1,High,1,Work-Life Balance,3.45,3-5 Years
+806,Nicole Davis,HR,Male,Other,South America,113683,2016-11-22,,0,High,0,,5.11,5+ Years
+807,William Hernandez,HR,Male,Asian,Asia,93269,2018-10-19,,0,High,0,,3.2,3-5 Years
+808,Kim Wall,HR,Female,Asian,Europe,48752,2017-12-13,,0,High,0,,4.05,3-5 Years
+809,Paul Russo,HR,Female,Black,South America,57463,2016-12-13,,0,Standard,0,,5.05,5+ Years
+810,Tiffany Brown,HR,Female,Asian,South America,60341,2016-08-09,,0,Standard,0,,5.4,5+ Years
+811,Mrs. Laurie Rodriguez,HR,Male,Other,Europe,76401,2019-12-26,,0,Standard,0,,2.02,1-3 Years
+812,Carla Braun,HR,Male,Asian,South America,40076,2019-01-24,,0,High,0,,2.94,1-3 Years
+813,David Blake,HR,Male,Black,Asia,103489,2017-09-13,,0,Standard,0,,4.3,3-5 Years
+814,Martha Beck,HR,Male,Black,Asia,95518,2019-01-20,,0,Standard,0,,2.95,1-3 Years
+815,Richard Cruz,HR,Male,Black,North America,92621,2020-03-21,,0,Standard,0,,1.78,1-3 Years
+816,Stephen Nichols,HR,Male,Other,South America,77642,2017-08-06,,0,Standard,0,,4.41,3-5 Years
+817,Stephanie Wong,HR,Male,Black,Europe,107798,2020-04-13,,0,Standard,0,,1.72,1-3 Years
+818,Daniel Gonzalez,HR,Female,Other,Europe,109487,2016-04-29,2021-12-25,1,Standard,0,Better Opportunity,5.66,5+ Years
+819,Michael Cook,HR,Female,Asian,Europe,73197,2019-12-05,,0,Standard,0,,2.07,1-3 Years
+820,Erin Brady,HR,Female,Asian,Europe,89697,2020-12-07,,0,Standard,0,,1.07,1-3 Years
+821,Caleb Davies,HR,Female,Asian,Europe,86826,2020-07-27,,0,Standard,0,,1.43,1-3 Years
+822,John Serrano,HR,Male,Other,South America,42802,2020-05-07,,0,Standard,0,,1.65,1-3 Years
+823,Pamela Vincent,HR,Male,Other,North America,48338,2018-10-20,,0,Standard,0,,3.2,3-5 Years
+824,John Blackburn,HR,Male,Black,North America,46761,2017-06-27,2021-11-02,1,High,1,Work-Life Balance,4.35,3-5 Years
+825,James Medina,HR,Female,Black,Europe,115246,2017-09-17,2021-08-12,1,Standard,0,Work-Life Balance,3.9,3-5 Years
+826,Dana Smith,HR,Female,Other,North America,47452,2019-04-01,,0,Standard,0,,2.75,1-3 Years
+827,David Spencer,HR,Male,Other,South America,57103,2016-01-17,,0,Standard,0,,5.96,5+ Years
+828,Jennifer Moore,HR,Male,Black,South America,63740,2021-01-03,,0,Standard,0,,0.99,0-1 Years
+829,Taylor Summers,HR,Female,Other,South America,113265,2016-10-01,,0,High,0,,5.25,5+ Years
+830,Robert Mccullough,HR,Male,Black,Asia,58708,2020-08-29,,0,Standard,0,,1.34,1-3 Years
+831,Richard Hudson,HR,Female,Other,Europe,113572,2018-08-20,,0,Standard,0,,3.37,3-5 Years
+832,Shannon Long,HR,Male,Black,Asia,47306,2020-01-10,2021-07-13,1,Standard,0,Better Opportunity,1.51,1-3 Years
+833,Russell Hernandez,HR,Female,Other,Asia,119755,2018-09-14,2021-11-19,1,Standard,0,Better Opportunity,3.18,3-5 Years
+834,Cody Smith,HR,Male,Other,South America,106528,2021-07-12,,0,Standard,0,,0.47,0-1 Years
+835,Michael Powell,HR,Female,Asian,Europe,51179,2016-09-26,,0,Standard,0,,5.27,5+ Years
+836,Mr. Craig Rowe,HR,Male,Asian,South America,81166,2021-02-04,,0,Standard,0,,0.9,0-1 Years
+837,Brooke Porter,HR,Male,Black,Asia,98146,2018-11-25,,0,High,0,,3.1,3-5 Years
+838,John Daniel,HR,Female,Other,Europe,101835,2020-03-16,,0,High,0,,1.79,1-3 Years
+839,Joshua Baker,HR,Male,Other,Europe,109971,2020-11-27,,0,Standard,0,,1.09,1-3 Years
+840,Jodi Foster,HR,Male,Other,Europe,51193,2016-09-21,,0,Standard,0,,5.28,5+ Years
+841,Lori Mendez,HR,Male,Other,Europe,84041,2021-07-23,,0,Standard,0,,0.44,0-1 Years
+842,Mallory Ibarra,HR,Male,Other,North America,87434,2019-10-01,,0,Standard,0,,2.25,1-3 Years
+843,David Mahoney,HR,Female,Black,Europe,107799,2019-02-05,,0,High,0,,2.9,1-3 Years
+844,Jason Vaughan,HR,Female,Asian,North America,110772,2017-05-24,2021-10-10,1,Standard,0,Better Opportunity,4.38,3-5 Years
+845,Evan Bean,HR,Male,Other,Asia,51956,2020-09-09,,0,Standard,0,,1.31,1-3 Years
+846,Sierra Johnston,HR,Female,Black,South America,115557,2021-04-19,,0,Standard,0,,0.7,0-1 Years
+847,John Jefferson,HR,Male,Other,Europe,93548,2019-11-29,,0,Standard,0,,2.09,1-3 Years
+848,Michael Mccarthy,HR,Female,Asian,South America,87348,2017-07-09,,0,Standard,0,,4.48,3-5 Years
+849,Emily Stuart,HR,Male,Black,North America,57800,2019-06-09,,0,Standard,0,,2.56,1-3 Years
+850,Andrew Kirby,HR,Female,Black,South America,89700,2020-11-20,,0,Standard,0,,1.11,1-3 Years
+851,Jerry Parker,HR,Female,Other,South America,111284,2016-02-08,,0,Standard,0,,5.9,5+ Years
+852,David Roberts,HR,Male,Black,South America,70846,2017-06-15,2021-06-20,1,High,1,Work-Life Balance,4.02,3-5 Years
+853,Taylor Matthews,HR,Female,Asian,Asia,42133,2019-07-10,,0,Standard,0,,2.48,1-3 Years
+854,Brandi Fisher,HR,Male,Black,South America,102231,2016-07-13,,0,High,0,,5.47,5+ Years
+855,Martha Hughes,HR,Male,Black,Europe,78020,2018-05-29,,0,Standard,0,,3.59,3-5 Years
+856,Derek Johnson,HR,Male,Asian,Asia,72944,2017-12-03,2021-10-18,1,Standard,0,Better Opportunity,3.88,3-5 Years
+857,Paula Knight,HR,Male,Asian,Asia,56317,2016-01-04,2021-07-25,1,Standard,0,Work-Life Balance,5.56,5+ Years
+858,Corey Flores,HR,Female,Other,Asia,74136,2017-07-13,,0,Standard,0,,4.47,3-5 Years
+859,Brittany Arias,HR,Male,Asian,South America,113710,2018-01-26,,0,High,0,,3.93,3-5 Years
+860,Angela Wilcox,HR,Female,Asian,South America,86979,2017-05-17,,0,High,0,,4.63,3-5 Years
+861,Michelle Mcbride,HR,Male,Black,South America,103040,2016-07-25,,0,Standard,0,,5.44,5+ Years
+862,Kenneth Cruz,HR,Female,Black,South America,101865,2017-12-22,,0,Standard,0,,4.03,3-5 Years
+863,Michael Jones,HR,Male,Asian,Asia,77322,2019-07-13,,0,Standard,0,,2.47,1-3 Years
+864,David Fernandez,HR,Female,Asian,Europe,115471,2019-11-01,,0,Standard,0,,2.17,1-3 Years
+865,Alicia Bowen,HR,Male,Asian,North America,114868,2018-07-17,,0,High,0,,3.46,3-5 Years
+866,Mrs. Rebecca Matthews,HR,Female,Asian,North America,119673,2019-06-28,,0,Standard,0,,2.51,1-3 Years
+867,Charles Nichols,HR,Female,Other,Europe,44212,2018-01-20,,0,Standard,0,,3.95,3-5 Years
+868,Gregory Smith,HR,Male,Other,South America,76318,2018-11-30,2021-08-12,1,Standard,0,Management Issues,2.7,1-3 Years
+869,Todd Orr,HR,Male,Other,North America,54705,2020-04-04,,0,Standard,0,,1.74,1-3 Years
+870,Antonio Stephens,HR,Female,Other,Europe,61856,2019-03-02,,0,Standard,0,,2.84,1-3 Years
+871,Daniel Lee,HR,Male,Black,South America,59024,2018-12-06,,0,High,0,,3.07,3-5 Years
+872,Jesse Elliott,HR,Male,Asian,North America,95090,2018-10-03,,0,Standard,0,,3.25,3-5 Years
+873,Terry Martinez,HR,Female,Other,Europe,94953,2019-12-23,2021-08-06,1,Standard,0,Better Opportunity,1.62,1-3 Years
+874,Tonya Morrison,HR,Female,Asian,Europe,51392,2019-06-25,2021-12-31,1,Standard,0,Work-Life Balance,2.52,1-3 Years
+875,Christopher Gomez,HR,Female,Other,Europe,48302,2017-02-25,2021-12-11,1,Standard,0,Management Issues,4.79,3-5 Years
+876,Ronald Hall,HR,Male,Other,North America,95854,2017-05-04,,0,High,0,,4.66,3-5 Years
+877,Brooke Roberts,HR,Female,Other,South America,45016,2016-05-17,,0,High,0,,5.63,5+ Years
+878,David Kerr,HR,Male,Other,Asia,91400,2020-03-30,,0,Standard,0,,1.76,1-3 Years
+879,Shane Rodriguez,HR,Female,Asian,North America,116891,2019-09-28,,0,Standard,0,,2.26,1-3 Years
+880,Rebecca Miller,HR,Female,Black,North America,106281,2018-02-09,,0,High,0,,3.89,3-5 Years
+881,Jeremiah Kirby,HR,Male,Black,Asia,78324,2016-11-09,2021-10-29,1,High,1,Better Opportunity,4.97,3-5 Years
+882,Jessica Smith,HR,Female,Asian,Asia,96602,2017-01-31,,0,Standard,0,,4.92,3-5 Years
+883,Christopher Perez,HR,Female,Black,North America,112319,2016-01-04,,0,Standard,0,,5.99,5+ Years
+884,Gina Perez,HR,Female,Black,South America,77548,2021-03-21,,0,Standard,0,,0.78,0-1 Years
+885,Maria Camacho,HR,Female,Asian,North America,86096,2019-03-28,2021-09-27,1,Standard,0,Work-Life Balance,2.5,1-3 Years
+886,Olivia Mitchell,HR,Female,Black,Asia,105760,2020-03-01,,0,Standard,0,,1.84,1-3 Years
+887,Dustin Goodman,HR,Female,Asian,Asia,55009,2020-06-12,,0,Standard,0,,1.55,1-3 Years
+888,Clarence Mann,HR,Female,Asian,Europe,98814,2021-04-14,,0,High,0,,0.72,0-1 Years
+889,Vanessa Williams,HR,Female,Asian,South America,66581,2017-01-08,,0,High,0,,4.98,3-5 Years
+890,Ana Boyle,HR,Female,Black,Asia,118313,2019-10-11,2021-09-26,1,Standard,0,Management Issues,1.96,1-3 Years
+891,Teresa Carter,HR,Male,Other,North America,59075,2017-01-05,,0,High,0,,4.99,3-5 Years
+892,Victoria Armstrong,HR,Female,Other,South America,78917,2018-02-25,,0,Standard,0,,3.85,3-5 Years
+893,James Williams,HR,Female,Black,North America,65731,2018-09-04,,0,High,0,,3.33,3-5 Years
+894,Brian Chase,HR,Female,Other,South America,62887,2017-07-20,,0,High,0,,4.45,3-5 Years
+895,Lance Santiago,HR,Male,Asian,North America,70596,2021-05-23,,0,Standard,0,,0.61,0-1 Years
+896,Anthony Friedman,HR,Female,Asian,Asia,95133,2020-07-02,,0,Standard,0,,1.5,1-3 Years
+897,Linda Moore,HR,Male,Asian,North America,49672,2018-08-22,,0,Standard,0,,3.36,3-5 Years
+898,Jeffrey Haynes,HR,Female,Asian,South America,107468,2020-07-06,,0,Standard,0,,1.49,1-3 Years
+899,Michael Howell,HR,Female,Asian,North America,77886,2016-03-29,,0,Standard,0,,5.76,5+ Years
+900,Michael Dalton,HR,Male,Black,North America,90718,2016-06-29,2021-07-07,1,High,1,Work-Life Balance,5.02,5+ Years
+901,Matthew Lee,HR,Male,Black,Asia,89771,2020-01-03,,0,High,0,,1.99,1-3 Years
+902,Bethany Haynes,HR,Female,Asian,Asia,46243,2017-02-23,2021-10-25,1,Standard,0,Management Issues,4.67,3-5 Years
+903,Melissa Ford,HR,Male,Other,South America,108413,2016-03-31,,0,Standard,0,,5.76,5+ Years
+904,Jerry Skinner,HR,Female,Asian,North America,111310,2016-06-05,,0,Standard,0,,5.58,5+ Years
+905,Heather Day,HR,Male,Other,North America,77294,2016-02-04,,0,Standard,0,,5.91,5+ Years
+906,Victoria Nolan,HR,Male,Asian,Asia,64599,2017-08-22,,0,Standard,0,,4.36,3-5 Years
+907,Melissa Martinez,HR,Male,Asian,North America,56009,2018-10-24,,0,Standard,0,,3.19,3-5 Years
+908,Julie Mitchell,HR,Male,Asian,North America,96012,2016-05-22,,0,Standard,0,,5.61,5+ Years
+909,Amanda Johnson,HR,Male,Other,Asia,103946,2016-12-25,,0,Standard,0,,5.02,5+ Years
+910,Nancy Ortega,HR,Female,Other,Asia,66754,2018-04-30,,0,Standard,0,,3.67,3-5 Years
+911,Michael Ellis,HR,Female,Black,Europe,96728,2016-09-06,,0,Standard,0,,5.32,5+ Years
+912,Leonard Lamb,HR,Female,Asian,Asia,116703,2016-06-19,,0,Standard,0,,5.54,5+ Years
+913,Mrs. Julie Wilson,HR,Male,Asian,Asia,86488,2020-09-29,,0,Standard,0,,1.25,1-3 Years
+914,Deborah Martin,HR,Female,Asian,Europe,115200,2020-12-07,,0,Standard,0,,1.07,1-3 Years
+915,Monica Burns,HR,Female,Other,South America,82277,2019-03-19,,0,Standard,0,,2.79,1-3 Years
+916,Robert Rodriguez,HR,Male,Other,Asia,100386,2020-11-27,,0,High,0,,1.09,1-3 Years
+917,Danielle Thomas,HR,Male,Other,North America,84517,2020-04-30,2021-11-25,1,High,1,Salary,1.57,1-3 Years
+918,Denise Rojas,HR,Male,Black,Europe,109383,2020-05-13,2021-09-06,1,Standard,0,Management Issues,1.32,1-3 Years
+919,Jennifer Gibbs,HR,Female,Asian,North America,93086,2016-07-16,,0,Standard,0,,5.46,5+ Years
+920,Virginia Nguyen,HR,Male,Asian,North America,49242,2019-09-12,,0,Standard,0,,2.3,1-3 Years
+921,Elizabeth Rodriguez,HR,Female,Asian,North America,67372,2021-02-25,,0,Standard,0,,0.85,0-1 Years
+922,Laura Hogan,HR,Female,Asian,South America,94777,2021-03-20,2021-07-13,1,Standard,0,Better Opportunity,0.32,0-1 Years
+923,Shawn Smith,HR,Male,Black,Europe,73332,2017-03-16,2021-08-31,1,Standard,0,Better Opportunity,4.46,3-5 Years
+924,Jennifer Travis,HR,Male,Black,Asia,84997,2017-10-12,,0,High,0,,4.22,3-5 Years
+925,Linda Page,HR,Female,Black,Asia,43668,2021-02-10,,0,High,0,,0.89,0-1 Years
+926,Dawn Terry,HR,Male,Asian,North America,44046,2020-06-11,,0,Standard,0,,1.56,1-3 Years
+927,Holly Ferrell,HR,Female,Black,Asia,109059,2016-01-17,,0,Standard,0,,5.96,5+ Years
+928,Evan Woodard,HR,Male,Other,Europe,94474,2018-05-17,,0,Standard,0,,3.63,3-5 Years
+929,Christopher Thornton,HR,Male,Other,Asia,62639,2020-03-27,,0,Standard,0,,1.76,1-3 Years
+930,Alvin Atkins,HR,Female,Other,Europe,45103,2019-08-04,,0,Standard,0,,2.41,1-3 Years
+931,Christopher Miller,HR,Male,Asian,North America,101112,2017-10-12,,0,Standard,0,,4.22,3-5 Years
+932,Makayla Holland,HR,Female,Black,South America,92358,2019-04-16,,0,Standard,0,,2.71,1-3 Years
+933,Matthew Rose,HR,Male,Asian,South America,76954,2019-08-20,,0,Standard,0,,2.37,1-3 Years
+934,Roger Smith,HR,Female,Other,Europe,79206,2016-02-24,,0,Standard,0,,5.85,5+ Years
+935,Brooke Morgan,HR,Male,Black,South America,109894,2016-08-05,,0,Standard,0,,5.41,5+ Years
+936,Glenda Martin,HR,Male,Black,South America,104781,2020-07-05,,0,High,0,,1.49,1-3 Years
+937,Cody Finley,HR,Male,Asian,South America,89634,2020-04-22,,0,Standard,0,,1.69,1-3 Years
+938,Angela Thompson,HR,Male,Other,South America,68173,2019-08-29,,0,Standard,0,,2.34,1-3 Years
+939,Francis Blackburn,HR,Male,Other,South America,64915,2018-05-13,,0,Standard,0,,3.64,3-5 Years
+940,William Scott,HR,Female,Asian,Europe,104479,2020-05-02,,0,High,0,,1.67,1-3 Years
+941,Shari Harvey,HR,Male,Other,Asia,50472,2018-06-30,,0,High,0,,3.51,3-5 Years
+942,Mr. Marcus Lane PhD,HR,Male,Asian,South America,93841,2017-11-27,,0,Standard,0,,4.1,3-5 Years
+943,Diane Chapman,HR,Female,Other,North America,45981,2019-02-16,,0,Standard,0,,2.87,1-3 Years
+944,Cassandra Ross,HR,Male,Asian,North America,51117,2021-04-09,,0,Standard,0,,0.73,0-1 Years
+945,Kristine Rodriguez,HR,Female,Black,North America,96128,2019-12-15,,0,Standard,0,,2.05,1-3 Years
+946,Craig Sims,HR,Male,Black,North America,95206,2017-01-25,2021-12-21,1,Standard,0,Better Opportunity,4.91,3-5 Years
+947,Mariah Briggs,HR,Male,Asian,Asia,53946,2019-12-01,,0,Standard,0,,2.08,1-3 Years
+948,Chris Parker,HR,Male,Asian,Europe,41353,2019-03-16,,0,Standard,0,,2.8,1-3 Years
+949,Joseph Graham,HR,Male,Asian,Asia,45877,2017-04-17,,0,Standard,0,,4.71,3-5 Years
+950,Lisa Day,HR,Female,Other,Asia,108449,2018-11-18,,0,Standard,0,,3.12,3-5 Years
+951,Devon Garza,Finance,Male,Black,North America,40862,2020-06-24,,0,Standard,0,,1.52,1-3 Years
+952,Jennifer Martinez DDS,Finance,Female,Asian,Asia,57870,2020-04-23,,0,Standard,0,,1.69,1-3 Years
+953,Lynn Pearson,Finance,Female,Black,Asia,82186,2019-09-12,,0,Standard,0,,2.3,1-3 Years
+954,Cheryl Jackson,Finance,Female,Black,South America,112618,2020-06-01,,0,Standard,0,,1.58,1-3 Years
+955,Yvonne Nelson,Finance,Male,Black,Europe,64606,2018-04-17,,0,Standard,0,,3.71,3-5 Years
+956,Christopher Johnson,Finance,Female,Other,South America,80533,2020-06-06,,0,High,0,,1.57,1-3 Years
+957,Natalie Brown,Finance,Female,Asian,Asia,63860,2019-08-25,,0,Standard,0,,2.35,1-3 Years
+958,Zachary Carter,Finance,Male,Black,South America,93737,2016-09-27,,0,Standard,0,,5.26,5+ Years
+959,Mr. Adam Johnson,Finance,Female,Asian,South America,98847,2018-08-13,,0,High,0,,3.39,3-5 Years
+960,Shannon Neal,Finance,Male,Asian,South America,85393,2017-01-24,,0,Standard,0,,4.94,3-5 Years
+961,Andrew Parker,Finance,Female,Asian,Asia,118618,2020-02-12,,0,Standard,0,,1.88,1-3 Years
+962,Ernest Lucas,Finance,Male,Other,North America,93439,2018-08-10,,0,High,0,,3.39,3-5 Years
+963,Roberta Fields,Finance,Female,Other,Europe,41979,2017-02-26,,0,Standard,0,,4.85,3-5 Years
+964,Tonya Harris,Finance,Male,Other,South America,40776,2017-08-02,,0,Standard,0,,4.42,3-5 Years
+965,Kristine Anderson,Finance,Male,Asian,Asia,85233,2021-05-10,,0,Standard,0,,0.64,0-1 Years
+966,Stephanie Gilbert,Finance,Male,Black,Europe,71063,2019-12-18,2021-08-15,1,High,1,Work-Life Balance,1.66,1-3 Years
+967,Leslie Hines,Finance,Male,Other,Asia,70465,2019-03-25,,0,Standard,0,,2.77,1-3 Years
+968,Dustin Stephens,Finance,Female,Asian,South America,65389,2018-08-15,,0,Standard,0,,3.38,3-5 Years
+969,Lori Larsen,Finance,Male,Black,South America,103802,2021-03-19,,0,Standard,0,,0.79,0-1 Years
+970,Stuart Wilson,Finance,Male,Black,Asia,114302,2021-05-30,,0,Standard,0,,0.59,0-1 Years
+971,Miranda Baxter,Finance,Male,Other,South America,77384,2021-01-02,,0,Standard,0,,0.99,0-1 Years
+972,Brandy Howell,Finance,Male,Asian,Europe,118493,2020-02-29,,0,Standard,0,,1.84,1-3 Years
+973,Francisco Collins,Finance,Male,Asian,Europe,69849,2020-03-10,,0,Standard,0,,1.81,1-3 Years
+974,Denise Brown,Finance,Female,Black,Asia,101100,2018-05-23,,0,High,0,,3.61,3-5 Years
+975,Shannon Elliott,Finance,Female,Other,Europe,41325,2019-12-12,,0,Standard,0,,2.05,1-3 Years
+976,Doris Foster,Finance,Male,Black,North America,63293,2017-09-24,2021-09-26,1,Standard,0,Salary,4.01,3-5 Years
+977,James Schneider PhD,Finance,Female,Other,Asia,118712,2020-05-30,,0,High,0,,1.59,1-3 Years
+978,Vanessa Bryant,Finance,Female,Asian,South America,41405,2018-09-29,,0,Standard,0,,3.26,3-5 Years
+979,Chase Wilson,Finance,Male,Black,Europe,54923,2020-08-18,,0,Standard,0,,1.37,1-3 Years
+980,Brian Hicks,Finance,Female,Asian,North America,47143,2018-11-04,,0,Standard,0,,3.16,3-5 Years
+981,Paul Rogers,Finance,Female,Black,Europe,82094,2016-04-29,,0,Standard,0,,5.68,5+ Years
+982,Timothy Gutierrez,Finance,Male,Black,South America,53977,2020-04-16,,0,High,0,,1.71,1-3 Years
+983,Angela Jimenez,Finance,Female,Asian,North America,110556,2017-04-09,,0,High,0,,4.73,3-5 Years
+984,Robert King,Finance,Male,Black,Asia,54595,2020-09-18,,0,High,0,,1.28,1-3 Years
+985,Amanda Nelson,Finance,Female,Asian,South America,116876,2017-01-19,,0,Standard,0,,4.95,3-5 Years
+986,Gina Arnold,Finance,Male,Asian,Europe,50303,2020-05-16,,0,Standard,0,,1.63,1-3 Years
+987,Steven Webb,Finance,Female,Asian,Europe,43969,2020-12-24,,0,Standard,0,,1.02,1-3 Years
+988,Patricia Martin,Finance,Female,Asian,South America,116084,2020-07-23,,0,Standard,0,,1.44,1-3 Years
+989,Edward Gardner,Finance,Male,Asian,Europe,88353,2019-10-21,,0,Standard,0,,2.2,1-3 Years
+990,Christina Diaz,Finance,Male,Black,South America,118749,2021-03-02,,0,Standard,0,,0.83,0-1 Years
+991,Michael Baker,Finance,Male,Asian,North America,98874,2019-01-05,,0,Standard,0,,2.99,1-3 Years
+992,Brian Brown,Finance,Female,Black,South America,85712,2016-01-04,,0,High,0,,5.99,5+ Years
+993,Daniel Cuevas,Finance,Male,Other,Europe,87762,2019-07-21,,0,High,0,,2.45,1-3 Years
+994,Raymond Mcclain,Finance,Female,Asian,Europe,84961,2018-03-18,,0,High,0,,3.79,3-5 Years
+995,Martin Jones,Finance,Female,Black,North America,118027,2016-08-23,,0,Standard,0,,5.36,5+ Years
+996,Julie Martinez,Finance,Female,Asian,Asia,96484,2019-02-24,,0,High,0,,2.85,1-3 Years
+997,Claudia Lyons,Finance,Male,Asian,Europe,48549,2019-06-13,,0,High,0,,2.55,1-3 Years
+998,Kelly Richardson,Finance,Female,Other,North America,101539,2019-04-20,,0,High,0,,2.7,1-3 Years
+999,Jack Ponce,Finance,Male,Asian,North America,71679,2016-01-28,2021-11-27,1,Standard,0,Management Issues,5.84,5+ Years
+1000,Stephen Smith,Finance,Male,Black,Asia,48679,2016-04-25,,0,Standard,0,,5.69,5+ Years
+1001,Bonnie Turner MD,Finance,Male,Other,Europe,84799,2018-05-31,,0,Standard,0,,3.59,3-5 Years
+1002,Ashley Garcia,Finance,Male,Asian,North America,92407,2019-09-08,,0,High,0,,2.32,1-3 Years
+1003,Mrs. Tracie Stanley,Finance,Female,Asian,Europe,58282,2018-04-05,,0,Standard,0,,3.74,3-5 Years
+1004,Patricia Weber,Finance,Male,Black,North America,72613,2020-04-04,2021-06-19,1,Standard,0,Better Opportunity,1.21,1-3 Years
+1005,Sylvia Hayes,Finance,Female,Other,North America,78278,2018-10-28,,0,High,0,,3.18,3-5 Years
+1006,Maureen Robinson,Finance,Male,Other,South America,56037,2018-10-30,,0,High,0,,3.17,3-5 Years
+1007,Rhonda Ray,Finance,Female,Other,Europe,60027,2020-05-18,,0,Standard,0,,1.62,1-3 Years
+1008,Troy Beck,Finance,Female,Other,Asia,78128,2017-11-01,,0,High,0,,4.17,3-5 Years
+1009,Patricia Hart,Finance,Male,Asian,South America,57856,2016-07-25,,0,Standard,0,,5.44,5+ Years
+1010,Kimberly Martin,Finance,Female,Asian,Europe,108232,2020-11-28,,0,Standard,0,,1.09,1-3 Years
+1011,Charles Peterson,Finance,Female,Asian,North America,64379,2020-05-30,2021-09-16,1,High,1,Better Opportunity,1.3,1-3 Years
+1012,Miranda Green,Finance,Male,Other,Europe,113524,2020-02-10,,0,Standard,0,,1.89,1-3 Years
+1013,Alexander Shaw,Finance,Female,Other,Asia,116890,2016-07-20,,0,High,0,,5.45,5+ Years
+1014,Nathan Lee,Finance,Male,Asian,Asia,56784,2019-12-08,,0,High,0,,2.07,1-3 Years
+1015,James Williams,Finance,Female,Black,South America,65903,2018-05-20,,0,Standard,0,,3.62,3-5 Years
+1016,Allison Gray,Finance,Female,Black,Europe,114934,2017-08-30,,0,High,0,,4.34,3-5 Years
+1017,Heidi Johnson,Finance,Female,Black,South America,50034,2016-11-13,,0,Standard,0,,5.13,5+ Years
+1018,Edward Kent,Finance,Male,Black,South America,100790,2016-12-19,,0,Standard,0,,5.04,5+ Years
+1019,Ellen Simpson,Finance,Female,Asian,Asia,72648,2016-07-05,,0,Standard,0,,5.49,5+ Years
+1020,Amy Thomas,Finance,Female,Asian,Asia,100632,2017-09-15,2021-09-01,1,High,1,Salary,3.96,3-5 Years
+1021,Brian Anthony,Finance,Male,Other,South America,69875,2021-05-11,,0,Standard,0,,0.64,0-1 Years
+1022,Jessica Williams,Finance,Female,Asian,Europe,47582,2017-06-28,,0,Standard,0,,4.51,3-5 Years
+1023,Ashley Chen,Finance,Male,Black,Europe,49388,2016-01-17,,0,High,0,,5.96,5+ Years
+1024,Mario Fuentes,Finance,Male,Black,North America,86482,2018-04-11,,0,Standard,0,,3.73,3-5 Years
+1025,Michelle Cain,Finance,Male,Black,Asia,70302,2016-11-04,,0,Standard,0,,5.16,5+ Years
+1026,Brittany Osborne,Finance,Female,Asian,Europe,77441,2020-01-30,,0,Standard,0,,1.92,1-3 Years
+1027,Travis Leblanc,Finance,Male,Asian,Europe,53350,2018-07-03,,0,Standard,0,,3.5,3-5 Years
+1028,Rebecca Johnson,Finance,Female,Asian,North America,93505,2017-03-25,,0,Standard,0,,4.77,3-5 Years
+1029,Julie Wright,Finance,Female,Asian,Asia,91134,2016-09-15,,0,Standard,0,,5.3,5+ Years
+1030,Samuel Walls,Finance,Female,Asian,South America,61370,2018-06-02,,0,Standard,0,,3.58,3-5 Years
+1031,Andrew Valencia,Finance,Female,Black,North America,48902,2018-05-12,,0,Standard,0,,3.64,3-5 Years
+1032,James Maddox,Finance,Female,Black,Asia,90438,2018-04-21,,0,Standard,0,,3.7,3-5 Years
+1033,Hannah Barron,Finance,Female,Asian,Asia,54833,2018-11-18,,0,Standard,0,,3.12,3-5 Years
+1034,Mary Garcia,Finance,Male,Other,North America,65079,2017-05-04,,0,High,0,,4.66,3-5 Years
+1035,Thomas Flores,Finance,Male,Asian,North America,97812,2020-02-04,,0,High,0,,1.91,1-3 Years
+1036,Deanna Flores,Finance,Female,Asian,Europe,69092,2019-03-17,,0,Standard,0,,2.79,1-3 Years
+1037,Mark Schmidt,Finance,Female,Other,Asia,42414,2019-06-03,,0,High,0,,2.58,1-3 Years
+1038,Amber Jacobs,Finance,Male,Asian,Asia,43574,2018-03-04,,0,Standard,0,,3.83,3-5 Years
+1039,Tina Walker,Finance,Male,Black,Europe,60425,2020-05-12,,0,High,0,,1.64,1-3 Years
+1040,Robert Lyons,Finance,Male,Asian,Europe,86229,2019-06-08,,0,Standard,0,,2.57,1-3 Years
+1041,Jacob Berg,Finance,Male,Other,South America,42356,2019-01-06,,0,Standard,0,,2.99,1-3 Years
+1042,Jeremy Hess,Finance,Male,Asian,Europe,64394,2017-07-25,2021-09-23,1,Standard,0,Better Opportunity,4.17,3-5 Years
+1043,Jennifer Parker,Finance,Male,Black,South America,41382,2020-11-16,,0,High,0,,1.12,1-3 Years
+1044,David Green,Finance,Male,Asian,Europe,44538,2020-06-09,,0,Standard,0,,1.56,1-3 Years
+1045,David Howell,Finance,Male,Asian,Europe,64809,2019-06-28,,0,Standard,0,,2.51,1-3 Years
+1046,Alyssa Molina,Finance,Female,Black,Asia,53098,2016-05-23,,0,Standard,0,,5.61,5+ Years
+1047,Rebecca Ortiz,Finance,Male,Other,South America,52496,2018-02-23,,0,Standard,0,,3.85,3-5 Years
+1048,Steven Davis,Finance,Female,Other,Asia,54308,2020-05-15,,0,Standard,0,,1.63,1-3 Years
+1049,Teresa Davis,Finance,Male,Other,Asia,116594,2021-07-15,,0,High,0,,0.46,0-1 Years
+1050,Dr. Elizabeth Donovan,Finance,Male,Asian,Europe,88501,2018-12-17,,0,High,0,,3.04,3-5 Years
+1051,Jessica Hernandez,Finance,Male,Other,North America,46483,2016-10-21,,0,Standard,0,,5.2,5+ Years
+1052,Nichole Wilson,Finance,Male,Asian,Asia,87263,2018-06-10,,0,Standard,0,,3.56,3-5 Years
+1053,Theresa Gomez,Finance,Female,Asian,North America,63528,2017-11-20,,0,Standard,0,,4.12,3-5 Years
+1054,Jason Berry,Finance,Female,Asian,South America,63784,2018-07-05,,0,Standard,0,,3.49,3-5 Years
+1055,James Figueroa,Finance,Male,Black,Asia,104960,2018-04-03,,0,High,0,,3.75,3-5 Years
+1056,Wendy Simpson,Finance,Male,Black,Asia,81851,2020-10-13,,0,Standard,0,,1.22,1-3 Years
+1057,Jessica Todd,Finance,Female,Other,South America,109412,2017-03-29,,0,Standard,0,,4.76,3-5 Years
+1058,Gregory Gonzalez,Finance,Female,Asian,North America,50228,2019-03-27,,0,Standard,0,,2.77,1-3 Years
+1059,Travis Smith,Finance,Female,Asian,Europe,104569,2017-11-15,,0,Standard,0,,4.13,3-5 Years
+1060,Joshua Williamson,Finance,Male,Asian,Asia,91397,2016-08-27,,0,Standard,0,,5.35,5+ Years
+1061,Jennifer Thompson,Finance,Male,Other,Europe,108676,2020-12-01,,0,Standard,0,,1.08,1-3 Years
+1062,Stephanie Nguyen,Finance,Male,Asian,Europe,113680,2018-09-13,,0,Standard,0,,3.3,3-5 Years
+1063,Kellie Blake,Finance,Female,Other,South America,48201,2017-08-26,,0,Standard,0,,4.35,3-5 Years
+1064,Lisa Bell,Finance,Female,Other,Europe,50848,2017-11-19,,0,Standard,0,,4.12,3-5 Years
+1065,Corey Garrett,Finance,Female,Other,South America,68634,2021-01-29,,0,Standard,0,,0.92,0-1 Years
+1066,Patricia Case,Finance,Female,Other,South America,95194,2019-02-20,,0,Standard,0,,2.86,1-3 Years
+1067,Bethany Jones,Finance,Male,Black,Europe,101277,2016-10-30,,0,Standard,0,,5.17,5+ Years
+1068,Edward Young,Finance,Male,Asian,Europe,110988,2018-12-12,,0,Standard,0,,3.05,3-5 Years
+1069,Terry Carr,Finance,Female,Other,North America,86011,2017-10-11,,0,Standard,0,,4.22,3-5 Years
+1070,Matthew James,Finance,Female,Asian,Asia,84292,2016-10-10,,0,Standard,0,,5.23,5+ Years
+1071,Victor Wilson,Finance,Male,Black,North America,89084,2020-11-06,,0,Standard,0,,1.15,1-3 Years
+1072,Devon Sanders,Finance,Male,Asian,North America,48854,2016-08-16,,0,Standard,0,,5.38,5+ Years
+1073,James Hale,Finance,Male,Asian,Asia,105368,2016-04-19,2021-06-15,1,Standard,0,Better Opportunity,5.16,5+ Years
+1074,Logan Jackson,Finance,Male,Black,South America,106364,2017-09-16,,0,Standard,0,,4.29,3-5 Years
+1075,Katrina Welch,Finance,Male,Asian,Asia,52610,2017-08-22,,0,Standard,0,,4.36,3-5 Years
+1076,Victoria Robles,Finance,Male,Other,Asia,47315,2018-08-09,,0,Standard,0,,3.4,3-5 Years
+1077,Shawn Thomas,Finance,Female,Asian,Asia,92544,2016-05-11,2021-12-23,1,Standard,0,Better Opportunity,5.62,5+ Years
+1078,Jason Tate,Finance,Male,Asian,Asia,84464,2019-08-07,,0,High,0,,2.4,1-3 Years
+1079,Michael Stevens,Finance,Male,Asian,Europe,99960,2019-01-07,,0,High,0,,2.98,1-3 Years
+1080,Michael Calhoun,Finance,Female,Asian,Europe,55300,2019-11-01,,0,Standard,0,,2.17,1-3 Years
+1081,Shannon Daniels,Finance,Female,Asian,Asia,58469,2021-05-24,,0,High,0,,0.61,0-1 Years
+1082,Victor Willis,Finance,Female,Asian,Europe,55653,2018-04-05,,0,Standard,0,,3.74,3-5 Years
+1083,Scott Diaz,Finance,Female,Asian,Asia,119184,2019-05-27,,0,Standard,0,,2.6,1-3 Years
+1084,Rebecca Scott,Finance,Female,Asian,Asia,61444,2021-07-20,,0,Standard,0,,0.45,0-1 Years
+1085,Deanna Nelson,Finance,Male,Black,Asia,97200,2017-08-17,,0,Standard,0,,4.38,3-5 Years
+1086,Dana Barrett,Finance,Male,Asian,Europe,118691,2017-03-06,,0,Standard,0,,4.82,3-5 Years
+1087,Harry Hernandez,Finance,Female,Asian,Asia,49136,2019-01-11,2021-10-08,1,Standard,0,Salary,2.74,1-3 Years
+1088,Adam Cook,Finance,Male,Other,South America,42487,2020-06-19,,0,Standard,0,,1.53,1-3 Years
+1089,Joseph Daugherty,Finance,Female,Other,South America,94184,2021-07-10,2021-11-16,1,Standard,0,Better Opportunity,0.35,0-1 Years
+1090,Paul Moody,Finance,Male,Asian,South America,42860,2020-07-16,,0,Standard,0,,1.46,1-3 Years
+1091,Andrew Brooks,Finance,Female,Asian,Europe,97638,2019-04-24,2021-06-04,1,Standard,0,Work-Life Balance,2.12,1-3 Years
+1092,Thomas Manning,Finance,Male,Other,South America,81749,2016-01-16,,0,Standard,0,,5.96,5+ Years
+1093,Cory Pierce,Finance,Female,Asian,South America,108841,2019-03-21,,0,Standard,0,,2.78,1-3 Years
+1094,Diane Peterson,Finance,Female,Black,South America,70151,2021-04-22,2021-07-18,1,High,1,Better Opportunity,0.24,0-1 Years
+1095,Dana Powers,Finance,Female,Asian,Asia,58263,2018-03-03,,0,Standard,0,,3.83,3-5 Years
+1096,Melinda Middleton,Finance,Male,Asian,South America,45567,2019-02-03,,0,Standard,0,,2.91,1-3 Years
+1097,Stephanie White,Finance,Female,Other,North America,110416,2016-10-06,2021-09-15,1,Standard,0,Better Opportunity,4.95,3-5 Years
+1098,Rebecca Kemp,Finance,Male,Black,North America,72987,2018-05-15,,0,Standard,0,,3.63,3-5 Years
+1099,Bailey Williams,Finance,Female,Other,North America,93483,2016-12-31,,0,Standard,0,,5.0,3-5 Years
+1100,Jamie Johnson,Finance,Female,Other,Asia,67268,2017-07-03,2021-08-20,1,Standard,0,Salary,4.13,3-5 Years
+1101,Garrett Cunningham,Finance,Male,Asian,Europe,47787,2017-06-07,,0,Standard,0,,4.57,3-5 Years
+1102,Mitchell Beard,Finance,Female,Asian,North America,54404,2016-10-20,,0,Standard,0,,5.2,5+ Years
+1103,Tyler Walker,Finance,Male,Black,Europe,106558,2019-06-09,,0,Standard,0,,2.56,1-3 Years
+1104,Samantha Ward,Finance,Female,Black,Asia,44671,2019-06-04,,0,High,0,,2.58,1-3 Years
+1105,Brett Faulkner Jr.,Finance,Female,Asian,North America,87916,2019-05-03,,0,Standard,0,,2.67,1-3 Years
+1106,Jade Wright,Finance,Male,Other,North America,103946,2016-06-20,,0,High,0,,5.53,5+ Years
+1107,James Horn,Finance,Male,Asian,Asia,94782,2019-11-04,,0,High,0,,2.16,1-3 Years
+1108,Matthew Taylor,Finance,Female,Black,South America,101935,2021-03-01,,0,Standard,0,,0.84,0-1 Years
+1109,Kelly Robinson,Finance,Female,Black,South America,111494,2020-12-11,,0,Standard,0,,1.05,1-3 Years
+1110,Amanda Ford,Finance,Female,Black,Europe,85967,2020-09-29,,0,Standard,0,,1.25,1-3 Years
+1111,Katherine Molina,Finance,Male,Black,North America,74273,2018-11-26,,0,High,0,,3.1,3-5 Years
+1112,Alexis Larsen PhD,Finance,Female,Other,North America,100464,2017-09-18,,0,Standard,0,,4.29,3-5 Years
+1113,Craig Bennett,Finance,Female,Asian,Asia,94451,2020-02-23,,0,Standard,0,,1.85,1-3 Years
+1114,Robert Thomas,Finance,Male,Other,Asia,56760,2016-09-09,,0,Standard,0,,5.31,5+ Years
+1115,Timothy Smith,Finance,Female,Black,Europe,53845,2017-09-14,,0,Standard,0,,4.3,3-5 Years
+1116,Mary Underwood,Finance,Female,Other,North America,92292,2018-10-12,,0,High,0,,3.22,3-5 Years
+1117,Jessica Ellis,Finance,Male,Asian,North America,63668,2017-09-25,,0,Standard,0,,4.27,3-5 Years
+1118,Alyssa Smith,Finance,Male,Other,Europe,57403,2019-06-27,,0,Standard,0,,2.52,1-3 Years
+1119,Jenna Clark,Finance,Female,Black,Asia,96635,2016-12-13,,0,Standard,0,,5.05,5+ Years
+1120,Veronica Wallace,Finance,Male,Asian,South America,48431,2018-02-16,,0,Standard,0,,3.87,3-5 Years
+1121,Rachel Adams,Finance,Male,Other,South America,51648,2018-05-23,,0,Standard,0,,3.61,3-5 Years
+1122,Steven Tate,Finance,Female,Other,South America,92710,2020-09-18,,0,Standard,0,,1.28,1-3 Years
+1123,John Lewis,Finance,Female,Asian,South America,46330,2018-03-25,,0,Standard,0,,3.77,3-5 Years
+1124,James Knox,Finance,Female,Asian,North America,71710,2021-03-24,,0,Standard,0,,0.77,0-1 Years
+1125,Hayden Thomas,Finance,Female,Other,South America,61019,2019-03-16,,0,Standard,0,,2.8,1-3 Years
+1126,Matthew Wells,Finance,Female,Other,Europe,114162,2018-02-02,,0,Standard,0,,3.91,3-5 Years
+1127,Christine Choi,Finance,Male,Other,Europe,71638,2018-09-15,,0,Standard,0,,3.3,3-5 Years
+1128,Alexis Mccormick,Finance,Female,Asian,South America,111861,2019-12-15,,0,High,0,,2.05,1-3 Years
+1129,Vanessa Turner,Finance,Male,Other,Asia,41255,2017-11-02,,0,Standard,0,,4.16,3-5 Years
+1130,Melinda Myers,Finance,Male,Black,South America,98619,2020-05-09,2021-06-05,1,Standard,0,Salary,1.07,1-3 Years
+1131,Betty Blair,Finance,Male,Black,South America,107163,2018-01-22,,0,Standard,0,,3.94,3-5 Years
+1132,Stephanie Martin,Finance,Female,Asian,North America,115924,2021-01-13,,0,Standard,0,,0.96,0-1 Years
+1133,Ray Hale,Finance,Male,Asian,Asia,107591,2018-08-11,,0,Standard,0,,3.39,3-5 Years
+1134,April Cooke,Finance,Male,Black,Europe,117495,2020-04-25,,0,High,0,,1.68,1-3 Years
+1135,Shelley Taylor,Finance,Female,Asian,North America,62890,2020-09-21,,0,Standard,0,,1.28,1-3 Years
+1136,Yvonne Jacobson,Finance,Male,Other,Europe,70235,2019-05-18,,0,Standard,0,,2.62,1-3 Years
+1137,Brandon Jensen,Finance,Male,Asian,North America,62482,2020-02-19,,0,Standard,0,,1.87,1-3 Years
+1138,Gregory Taylor,Finance,Male,Other,Asia,108101,2016-08-16,,0,High,0,,5.38,5+ Years
+1139,Tyler Ferrell,Finance,Female,Asian,Europe,115045,2016-09-13,,0,Standard,0,,5.3,5+ Years
+1140,Phillip Carter,Finance,Male,Black,North America,62227,2016-03-07,,0,Standard,0,,5.82,5+ Years
+1141,Richard Hughes,Finance,Male,Other,South America,44396,2017-11-27,,0,Standard,0,,4.1,3-5 Years
+1142,Lisa Bush,Finance,Female,Other,South America,67457,2019-09-03,,0,Standard,0,,2.33,1-3 Years
+1143,Margaret Greer,Finance,Female,Other,Asia,73655,2017-03-17,,0,Standard,0,,4.79,3-5 Years
+1144,Christopher Beck,Finance,Female,Other,North America,61397,2018-01-09,,0,High,0,,3.98,3-5 Years
+1145,Keith Page,Finance,Female,Asian,North America,64353,2016-03-12,2021-09-13,1,Standard,0,Better Opportunity,5.51,5+ Years
+1146,Joseph West,Finance,Female,Asian,South America,76615,2017-06-14,,0,High,0,,4.55,3-5 Years
+1147,Beverly Macias,Finance,Female,Black,Asia,56725,2016-11-07,,0,Standard,0,,5.15,5+ Years
+1148,Briana Burns,Finance,Female,Other,South America,61949,2018-09-21,,0,Standard,0,,3.28,3-5 Years
+1149,Steven Peck,Finance,Male,Other,Asia,93613,2018-10-29,,0,Standard,0,,3.18,3-5 Years
+1150,Brittany Wilson,Finance,Female,Black,North America,49065,2018-09-12,,0,High,0,,3.3,3-5 Years
+1151,Ernest Byrd,Finance,Female,Other,Europe,96889,2021-03-30,,0,Standard,0,,0.76,0-1 Years
+1152,Mary Gutierrez,Finance,Female,Other,North America,115786,2020-09-06,,0,High,0,,1.32,1-3 Years
+1153,Jason Smith,Finance,Female,Black,South America,41481,2016-07-03,2021-09-09,1,Standard,0,Better Opportunity,5.19,5+ Years
+1154,Mason Hale,Finance,Female,Asian,Asia,61457,2018-10-23,,0,Standard,0,,3.19,3-5 Years
+1155,Grace Harris,Finance,Male,Asian,Asia,71865,2018-04-06,,0,High,0,,3.74,3-5 Years
+1156,Ronnie Woods,Finance,Male,Other,Europe,77933,2019-05-22,,0,Standard,0,,2.61,1-3 Years
+1157,Leslie Bailey,Finance,Male,Asian,Asia,107165,2018-11-10,,0,Standard,0,,3.14,3-5 Years
+1158,Hailey Weaver,Finance,Female,Other,Asia,68332,2016-11-26,,0,High,0,,5.1,5+ Years
+1159,Earl Cruz,Finance,Male,Asian,South America,58235,2018-05-10,,0,Standard,0,,3.65,3-5 Years
+1160,Isaiah Hansen,Finance,Male,Black,South America,74461,2020-01-20,,0,Standard,0,,1.95,1-3 Years
+1161,Kristen Odonnell,Finance,Male,Other,North America,41050,2020-05-29,,0,Standard,0,,1.59,1-3 Years
+1162,Brenda Moore,Finance,Male,Black,Europe,50119,2018-04-19,,0,Standard,0,,3.7,3-5 Years
+1163,David Lee,Finance,Female,Other,South America,106101,2019-09-25,,0,Standard,0,,2.27,1-3 Years
+1164,John Pacheco,Finance,Male,Other,Europe,94539,2019-11-02,,0,High,0,,2.16,1-3 Years
+1165,Brian Oneal,Finance,Female,Black,Europe,72538,2018-12-23,,0,Standard,0,,3.02,3-5 Years
+1166,Laura Young,Finance,Male,Other,North America,96731,2021-02-19,,0,Standard,0,,0.86,0-1 Years
+1167,Victoria Carpenter,Finance,Female,Other,Asia,107444,2017-08-22,,0,High,0,,4.36,3-5 Years
+1168,Kristin Christensen,Finance,Male,Asian,North America,112472,2018-08-21,,0,High,0,,3.36,3-5 Years
+1169,Debbie Bass,Finance,Female,Other,Europe,102886,2017-03-07,,0,Standard,0,,4.82,3-5 Years
+1170,Steven Lopez,Finance,Male,Other,North America,60048,2021-01-04,,0,Standard,0,,0.99,0-1 Years
+1171,Richard Levy,Finance,Male,Black,Europe,68588,2018-04-30,,0,Standard,0,,3.67,3-5 Years
+1172,Ashley Gardner PhD,Finance,Male,Black,Europe,117026,2016-09-23,,0,Standard,0,,5.27,5+ Years
+1173,Jacob Shaw,Finance,Male,Other,Europe,61423,2020-08-29,,0,Standard,0,,1.34,1-3 Years
+1174,Meghan Brown,Finance,Female,Other,Europe,60743,2018-11-18,,0,High,0,,3.12,3-5 Years
+1175,Erika Baker,Finance,Male,Other,Europe,89416,2018-03-21,,0,High,0,,3.78,3-5 Years
+1176,Vanessa Peterson,Finance,Female,Other,Asia,56651,2021-06-30,,0,High,0,,0.5,0-1 Years
+1177,Steve Ellison,Finance,Female,Black,Asia,100500,2020-08-20,,0,Standard,0,,1.36,1-3 Years
+1178,Matthew Harris,Finance,Female,Asian,North America,63157,2016-06-13,,0,High,0,,5.55,5+ Years
+1179,Kathryn Thomas,Finance,Female,Asian,North America,91995,2018-11-29,,0,Standard,0,,3.09,3-5 Years
+1180,Dr. Jessica Clements,Finance,Male,Asian,South America,53921,2020-03-21,2021-12-01,1,Standard,0,Better Opportunity,1.7,1-3 Years
+1181,Brad Berg,Finance,Female,Black,Europe,44450,2018-11-30,,0,Standard,0,,3.09,3-5 Years
+1182,Matthew Dillon,Finance,Male,Other,Asia,85373,2016-01-17,,0,Standard,0,,5.96,5+ Years
+1183,Bob Bradford,Finance,Male,Asian,North America,50295,2017-01-29,,0,Standard,0,,4.92,3-5 Years
+1184,Mitchell Esparza,Finance,Female,Black,South America,76511,2021-04-05,,0,Standard,0,,0.74,0-1 Years
+1185,Julie Guerrero,Finance,Male,Asian,Europe,52259,2019-12-27,2021-12-26,1,Standard,0,Management Issues,2.0,1-3 Years
+1186,David Smith,Finance,Male,Black,North America,65963,2020-02-05,,0,Standard,0,,1.9,1-3 Years
+1187,Courtney Walker,Finance,Male,Black,Europe,49723,2017-07-19,,0,High,0,,4.45,3-5 Years
+1188,Matthew Black,Finance,Male,Other,North America,105195,2019-11-27,,0,Standard,0,,2.1,1-3 Years
+1189,Robert Hayes,Finance,Female,Other,Asia,50971,2019-11-07,,0,High,0,,2.15,1-3 Years
+1190,Edward Davis,Finance,Female,Other,South America,96170,2018-03-06,,0,Standard,0,,3.82,3-5 Years
+1191,Peter Patterson,Finance,Male,Other,South America,88499,2018-10-19,,0,Standard,0,,3.2,3-5 Years
+1192,Bianca Chambers,Finance,Male,Black,Asia,98951,2019-02-07,,0,High,0,,2.9,1-3 Years
+1193,Rachel Williams,Finance,Male,Other,South America,44356,2019-11-29,2021-11-11,1,Standard,0,Better Opportunity,1.95,1-3 Years
+1194,Robert Nguyen,Finance,Male,Other,Europe,49984,2016-01-01,,0,Standard,0,,6.0,5+ Years
+1195,Dr. Morgan Manning,Finance,Female,Asian,Asia,98810,2020-02-24,,0,High,0,,1.85,1-3 Years
+1196,Tammy Smith,Finance,Female,Asian,Europe,49556,2016-09-14,,0,High,0,,5.3,5+ Years
+1197,Suzanne Moreno,Finance,Male,Black,North America,66948,2018-05-21,,0,High,0,,3.62,3-5 Years
+1198,Jordan Crawford,Finance,Male,Other,South America,82478,2019-03-31,2021-08-02,1,Standard,0,Better Opportunity,2.34,1-3 Years
+1199,John Hubbard,Finance,Female,Other,Europe,97086,2020-03-04,,0,Standard,0,,1.83,1-3 Years
+1200,Barbara Rodriguez,Finance,Male,Other,Europe,67681,2016-09-12,,0,Standard,0,,5.3,5+ Years
+1201,William Wheeler,Finance,Female,Other,Asia,59776,2016-06-25,2021-10-16,1,Standard,0,Management Issues,5.31,5+ Years
+1202,Michele Curtis,Finance,Female,Black,Asia,79535,2020-03-13,,0,Standard,0,,1.8,1-3 Years
+1203,David Davis,Finance,Male,Black,South America,96313,2019-03-26,,0,High,0,,2.77,1-3 Years
+1204,Jose Clark,Finance,Female,Black,Europe,101299,2021-01-14,,0,Standard,0,,0.96,0-1 Years
+1205,Shawn Brown,Finance,Male,Black,Asia,102512,2021-02-10,,0,Standard,0,,0.89,0-1 Years
+1206,Andrea Lopez,Finance,Male,Asian,Asia,42375,2017-03-10,,0,Standard,0,,4.81,3-5 Years
+1207,Crystal Martin,Finance,Female,Other,North America,99707,2019-01-19,,0,Standard,0,,2.95,1-3 Years
+1208,Robert Buchanan,Finance,Female,Asian,Asia,118361,2021-06-02,,0,Standard,0,,0.58,0-1 Years
+1209,Bruce Mclaughlin,Finance,Male,Asian,Europe,100768,2017-11-05,2021-12-06,1,High,1,Better Opportunity,4.09,3-5 Years
+1210,Valerie Diaz,Finance,Female,Asian,Asia,116593,2019-03-17,,0,High,0,,2.79,1-3 Years
+1211,Matthew Smith,Finance,Female,Asian,North America,40959,2017-04-08,2021-07-16,1,Standard,0,Management Issues,4.27,3-5 Years
+1212,Darren Schneider,Finance,Female,Other,Europe,102880,2020-09-27,,0,High,0,,1.26,1-3 Years
+1213,Julie Butler,Finance,Male,Black,Asia,79950,2019-11-29,,0,Standard,0,,2.09,1-3 Years
+1214,Jose Cain,Finance,Male,Black,Europe,119426,2016-08-12,,0,Standard,0,,5.39,5+ Years
+1215,Nicole Owens,Finance,Male,Other,Europe,99008,2019-06-30,,0,High,0,,2.51,1-3 Years
+1216,David Rogers,Finance,Female,Other,South America,57265,2019-10-25,,0,High,0,,2.19,1-3 Years
+1217,Jennifer Rodriguez,Finance,Male,Black,North America,58498,2019-05-06,2021-10-19,1,Standard,0,Work-Life Balance,2.46,1-3 Years
+1218,Larry Acevedo,Finance,Female,Asian,North America,105243,2016-12-28,,0,Standard,0,,5.01,5+ Years
+1219,David Hernandez,Finance,Male,Asian,Asia,68783,2017-03-29,,0,Standard,0,,4.76,3-5 Years
+1220,Jennifer James,Finance,Male,Black,Europe,56294,2021-02-03,,0,Standard,0,,0.91,0-1 Years
+1221,Mr. Zachary Wheeler,Finance,Male,Black,Asia,79367,2020-04-28,,0,Standard,0,,1.68,1-3 Years
+1222,Nancy Lewis,Finance,Female,Black,South America,45604,2019-03-24,,0,Standard,0,,2.78,1-3 Years
+1223,Terry Ingram,Finance,Male,Other,South America,40171,2017-07-31,,0,Standard,0,,4.42,3-5 Years
+1224,Jeremy Bailey,Finance,Male,Black,Asia,52146,2021-01-27,,0,High,0,,0.93,0-1 Years
+1225,Jennifer Cox,Finance,Female,Asian,South America,69900,2017-04-15,,0,High,0,,4.72,3-5 Years
+1226,Mary Bonilla,Finance,Female,Asian,South America,89437,2018-02-26,,0,Standard,0,,3.85,3-5 Years
+1227,Rebecca Miles,Finance,Male,Black,Asia,58093,2018-01-14,2021-08-08,1,Standard,0,Work-Life Balance,3.57,3-5 Years
+1228,Alexander Raymond,Finance,Male,Asian,Asia,74727,2017-05-20,,0,Standard,0,,4.62,3-5 Years
+1229,Robert Bailey,Finance,Male,Other,Asia,49592,2020-07-30,,0,Standard,0,,1.42,1-3 Years
+1230,Hannah Marquez,Finance,Male,Asian,South America,44170,2019-05-07,,0,Standard,0,,2.65,1-3 Years
+1231,Mrs. Jessica Navarro,Finance,Male,Other,Asia,100074,2019-09-20,,0,Standard,0,,2.28,1-3 Years
+1232,Maureen Flores,Finance,Female,Other,South America,67288,2019-04-15,,0,Standard,0,,2.72,1-3 Years
+1233,Christine Cook,Finance,Female,Asian,Europe,71089,2019-05-15,,0,High,0,,2.63,1-3 Years
+1234,Lori Johns,Finance,Male,Asian,North America,99166,2017-02-28,,0,Standard,0,,4.84,3-5 Years
+1235,Rebecca Stewart,Finance,Male,Asian,Asia,42497,2021-03-27,,0,Standard,0,,0.76,0-1 Years
+1236,Hannah Meyers,Finance,Male,Other,Europe,67051,2019-02-21,,0,Standard,0,,2.86,1-3 Years
+1237,Cassandra Anderson,Finance,Male,Black,Asia,61199,2016-01-27,,0,Standard,0,,5.93,5+ Years
+1238,Donna Leblanc,Finance,Male,Asian,South America,66664,2020-03-19,,0,High,0,,1.79,1-3 Years
+1239,Aaron White,Finance,Female,Asian,South America,42167,2018-11-10,2021-12-08,1,Standard,0,Better Opportunity,3.08,3-5 Years
+1240,Steven Beasley,Finance,Male,Asian,North America,59935,2020-12-25,2021-11-05,1,Standard,0,Better Opportunity,0.86,0-1 Years
+1241,Amber Smith,Finance,Male,Black,South America,50818,2021-02-07,,0,Standard,0,,0.9,0-1 Years
+1242,Patricia Rivera,Finance,Male,Asian,North America,51131,2016-11-24,,0,Standard,0,,5.1,5+ Years
+1243,Felicia Mendoza,Finance,Male,Black,North America,63431,2018-06-23,,0,Standard,0,,3.53,3-5 Years
+1244,Karen Barber,Finance,Male,Other,Europe,71055,2018-10-19,,0,Standard,0,,3.2,3-5 Years
+1245,Connie Mccall,Finance,Male,Black,North America,109208,2020-07-14,,0,High,0,,1.47,1-3 Years
+1246,Scott Conley,Finance,Female,Other,South America,99099,2019-08-06,,0,High,0,,2.41,1-3 Years
+1247,Melinda Cooke,Finance,Female,Asian,North America,53511,2018-02-15,,0,Standard,0,,3.88,3-5 Years
+1248,Jeremy Murphy,Finance,Female,Black,North America,117948,2019-03-05,,0,Standard,0,,2.83,1-3 Years
+1249,Alyssa Riddle,Finance,Male,Asian,North America,115395,2019-03-17,,0,High,0,,2.79,1-3 Years
+1250,Terrence Howard,Finance,Female,Asian,Europe,59202,2020-02-17,,0,Standard,0,,1.87,1-3 Years
