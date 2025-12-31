@@ -1,4 +1,3 @@
-# HR_Attrition_Analysis
 # HR Attrition Analysis Dashboard (Power BI + Python)
 
 ## 📌 Overview
